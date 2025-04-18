@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
         }
     }
 
-    double sbcc = double(max_bcc + max_bcc_edges) / double(n + 2LL * m_unique);
+    double sbcc = double(max_bcc + 2LL * max_bcc_edges) / double(n + 2LL * m_unique);
     cout << argv[1] << "," << n << "," << m_unique << ","
          << cc_count << "," << bcc_cnt << ","
          << max_bcc << "," << max_bcc_edges << ","

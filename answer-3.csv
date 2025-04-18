@@ -1,0 +1,1419 @@
+Graph,n,m,ccCount,numBCC,maxV,maxE,S_BCC
+/home/graphwork/Graphs/Sybrandt/MOLIERE_2016/MOLIERE_2016.mtx,30239687,2147483647,Graph too large
+/home/graphwork/Graphs/Sybrandt/MOLIERE_2016/MOLIERE_2016_duplicate_edges.mtx,3106164,0,Graph too small
+/home/graphwork/Graphs/Sybrandt/AGATHA_2015/AGATHA_2015.mtx,183964077,2147483647,Graph too large
+/home/graphwork/Graphs/GAP/GAP-urand_sources.mtx,64,-1174904335,Graph too small
+/home/graphwork/Graphs/GAP/GAP-twitter.mtx,61578415,1468364884,Graph too large
+/home/graphwork/Graphs/GAP/GAP-web.mtx,50636151,1930292948,Graph too large
+/home/graphwork/Graphs/GAP/GAP-road.mtx,23947347,28854312,1,7390330,16019894,20705787,0.703335
+/home/graphwork/Graphs/GAP/GAP-twitter_sources.mtx,64,0,Graph too small
+/home/graphwork/Graphs/GAP/GAP-kron_sources.mtx,64,-252811568,Graph too small
+/home/graphwork/Graphs/GAP/GAP-kron.mtx,134217726,2111632322,Graph too large
+/home/graphwork/Graphs/GAP/GAP-web_sources.mtx,64,593876688,Graph too large
+/home/graphwork/Graphs/GAP/GAP-urand.mtx,134217728,2147483370,Graph too large
+/home/graphwork/Graphs/GAP/GAP-road_sources.mtx,64,1960494800,Graph too large
+/home/graphwork/Graphs/GenBank/kmer_P1a.mtx,139353211,148914992,Graph too large
+/home/graphwork/Graphs/GenBank/kmer_V2a.mtx,55042369,58608800,Graph too large
+/home/graphwork/Graphs/GenBank/kmer_A2a.mtx,170728175,180292586,Graph too large
+/home/graphwork/Graphs/GenBank/kmer_U1a.mtx,67716231,69389281,Graph too large
+/home/graphwork/Graphs/GenBank/kmer_V1r.mtx,214005017,232705452,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_569.mtx,7716,11058,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core_Communities_all.mtx,1005,1005,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_temporal_edges_c2q.mtx,479067,-872245552,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_165.mtx,7716,7134,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_399.mtx,7716,9082,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_109.mtx,7716,6600,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_220.mtx,7716,7469,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_470.mtx,7716,9816,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_119.mtx,7716,6587,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_725.mtx,7716,4594,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_607.mtx,7716,11655,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_400.mtx,7716,9104,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_107.mtx,7716,6584,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_194.mtx,7716,7276,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_131.mtx,7716,6735,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_471.mtx,7716,9795,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_404.mtx,7716,9071,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_392.mtx,7716,8982,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_396.mtx,7716,9023,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_242.mtx,7716,7647,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_528.mtx,7716,10563,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_4.mtx,146,1375,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_temporal_edges_a2q.mtx,107581,-1708288304,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_405.mtx,7716,9092,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_062.mtx,7716,6139,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_347.mtx,7716,8391,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_2.mtx,11806,30855,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_202.mtx,7716,7339,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_134.mtx,7716,6740,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_534.mtx,7716,10307,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_496.mtx,7716,10115,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_662.mtx,7716,12355,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_004.mtx,31379,34335,14506,5949,10915,28367,0.676159
+/home/graphwork/Graphs/SNAP/as-735_G_382.mtx,7716,8845,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_5.mtx,11806,31434,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_444.mtx,7716,9537,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_048.mtx,7716,6167,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_073.mtx,31379,47777,7717,8993,14652,38750,0.725989
+/home/graphwork/Graphs/SNAP/as-735_G_605.mtx,7716,11625,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_111.mtx,7716,6647,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_108.mtx,31379,52762,5683,9741,15932,42974,0.744177
+/home/graphwork/Graphs/SNAP/as-caida_G_114.mtx,31379,36406,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_135.mtx,7716,6757,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_580.mtx,7716,11224,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_107.mtx,31379,52666,5684,9746,15931,42883,0.743883
+/home/graphwork/Graphs/SNAP/as-735_G_587.mtx,7716,11401,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_088.mtx,7716,6403,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_356.mtx,7716,8589,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_172.mtx,7716,7210,Graph too small
+/home/graphwork/Graphs/SNAP/com-Amazon_Communities_all.mtx,334863,2271512,13654,12118,309028,2259284,0.989690
+/home/graphwork/Graphs/SNAP/as-735_G_091.mtx,7716,6446,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_410.mtx,7716,1326,Graph too small
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_temporal_edges_c2q.mtx,20268151,1494083280,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_122.mtx,7716,6593,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_4.mtx,11806,31538,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_519.mtx,7716,10502,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_397.mtx,7716,9005,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_058.mtx,7716,6164,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_121.mtx,7716,6514,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_525.mtx,7716,10517,Graph too small
+/home/graphwork/Graphs/SNAP/com-Youtube.mtx,1134890,2987624,1,673661,452060,2295072,0.709157
+/home/graphwork/Graphs/SNAP/as-caida_G_014.mtx,31379,37991,12469,6792,12109,31181,0.693650
+/home/graphwork/Graphs/SNAP/as-735_G_709.mtx,7716,3379,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_686.mtx,7716,12679,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Brightkite.mtx,58228,214078,547,23687,33187,188577,0.843656
+/home/graphwork/Graphs/SNAP/as-735_G_588.mtx,7716,11403,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_044.mtx,7716,6099,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_150.mtx,7716,6988,Graph too small
+/home/graphwork/Graphs/SNAP/soc-Epinions1.mtx,75888,405740,11,39120,36111,365253,0.863922
+/home/graphwork/Graphs/SNAP/as-735_G_386.mtx,7716,8932,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_temporal_edges_c2a.mtx,534239,-441006384,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_241.mtx,7716,7574,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_715.mtx,7716,4584,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_700.mtx,7716,13445,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_350.mtx,7716,8493,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_035.mtx,7716,6099,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_364.mtx,7716,8665,Graph too small
+/home/graphwork/Graphs/SNAP/twitter7_favourites_count.mtx,6499,57913841,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_216.mtx,7716,7432,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_030.mtx,31379,43425,10037,7726,13607,35679,0.718648
+/home/graphwork/Graphs/SNAP/as-caida_G_043.mtx,31379,44839,9350,8052,13962,36756,0.722585
+/home/graphwork/Graphs/SNAP/as-735_G_594.mtx,7716,11528,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_015.mtx,7716,5658,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_101.mtx,31379,51510,6076,9575,15708,41894,0.740303
+/home/graphwork/Graphs/SNAP/as-735_G_353.mtx,7716,8533,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_650.mtx,7716,12062,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_320.mtx,7716,8500,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_108.mtx,7716,6582,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_343.mtx,7716,8331,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_037.mtx,7716,6081,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_477.mtx,7716,9866,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_263.mtx,7716,7516,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_nodeid.mtx,24818,569913841,Graph too large
+/home/graphwork/Graphs/SNAP/cit-Patents_nodename.mtx,3774768,-1619959311,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_062.mtx,31379,46864,8379,8550,14435,38284,0.727401
+/home/graphwork/Graphs/SNAP/cit-HepPh_nodename.mtx,34546,1087782848,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_574.mtx,7716,11146,Graph too small
+/home/graphwork/Graphs/SNAP/web-Google.mtx,916428,4322051,43461,175274,641997,3963502,0.896289
+/home/graphwork/Graphs/SNAP/higgs-twitter_mention.mtx,456626,140421,350721,81268,22978,55833,0.182576
+/home/graphwork/Graphs/SNAP/as-735_G_358.mtx,7716,8585,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_445.mtx,7716,9557,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_321.mtx,7716,8500,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_447.mtx,7716,9582,Graph too small
+/home/graphwork/Graphs/SNAP/soc-LiveJournal1.mtx,4847571,68993773,Graph too large
+/home/graphwork/Graphs/SNAP/ca-HepPh.mtx,12008,118489,278,1868,9025,114046,0.952331
+/home/graphwork/Graphs/SNAP/as-735_G_244.mtx,7716,7649,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_077.mtx,31379,49332,7367,8940,15054,40355,0.736403
+/home/graphwork/Graphs/SNAP/as-735_G_635.mtx,7716,11919,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_457.mtx,7716,9535,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_680.mtx,7716,12600,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_278.mtx,7716,7921,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_018.mtx,7716,5663,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_012.mtx,31379,38265,12879,6584,11910,31666,0.697273
+/home/graphwork/Graphs/SNAP/as-735_G_057.mtx,7716,6176,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_632.mtx,7716,11898,Graph too small
+/home/graphwork/Graphs/SNAP/amazon0505.mtx,410236,2439437,1,21662,386063,2406806,0.983091
+/home/graphwork/Graphs/SNAP/as-735_G_059.mtx,7716,6109,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_679.mtx,7716,12602,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_381.mtx,7716,8842,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_354.mtx,7716,8558,Graph too small
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_nodeid.mtx,2601977,-1646108175,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_079.mtx,7716,6277,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_050.mtx,7716,6168,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_329.mtx,7716,8502,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_631.mtx,7716,11871,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_541.mtx,7716,10716,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_273.mtx,7716,7499,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_059.mtx,31379,46578,8532,8457,14373,38087,0.727081
+/home/graphwork/Graphs/SNAP/as-735_G_435.mtx,7716,9427,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_232.mtx,7716,7570,Graph too small
+/home/graphwork/Graphs/SNAP/com-DBLP_Communities_all.mtx,317080,719807,53976,146005,117002,573630,0.719683
+/home/graphwork/Graphs/SNAP/as-735_G_723.mtx,7716,4629,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-otc_Time.mtx,5881,35592,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_008.mtx,7716,5556,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_316.mtx,7716,8446,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_031.mtx,31379,43616,9978,7718,13677,35884,0.720380
+/home/graphwork/Graphs/SNAP/com-Orkut_nodeid.mtx,3072441,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_005.mtx,7716,5587,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_297.mtx,7716,8247,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-Slashdot090221.mtx,82144,500481,5,30338,51454,469428,0.914324
+/home/graphwork/Graphs/SNAP/as-735_G_402.mtx,7716,9102,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_448.mtx,7716,9562,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_637.mtx,7716,11927,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_312.mtx,7716,8407,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_488.mtx,7716,10025,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_633.mtx,7716,11891,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_124.mtx,7716,6595,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_641.mtx,7716,6966,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_722.mtx,7716,4659,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_406.mtx,7716,1234,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_276.mtx,7716,7892,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_452.mtx,7716,9638,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_698.mtx,7716,13404,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_116.mtx,7716,6648,Graph too small
+/home/graphwork/Graphs/SNAP/twitter7_celebrity_id.mtx,6499,719644368,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_657.mtx,7716,12218,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_523.mtx,7716,10552,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_106.mtx,31379,52546,5801,9718,15838,42783,0.743044
+/home/graphwork/Graphs/SNAP/as-735_G_063.mtx,7716,6112,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_116.mtx,31379,53289,5196,9985,16182,43271,0.744609
+/home/graphwork/Graphs/SNAP/as-735_G_705.mtx,7716,13459,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_022.mtx,7716,5743,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_030.mtx,7716,6016,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_482.mtx,7716,9957,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_606.mtx,7716,11656,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_079.mtx,31379,49196,7362,9072,14935,40102,0.733130
+/home/graphwork/Graphs/SNAP/as-735_G_370.mtx,7716,8711,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_642.mtx,7716,12008,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_082.mtx,7716,6398,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_086.mtx,31379,49830,6926,9187,15257,40623,0.736445
+/home/graphwork/Graphs/SNAP/as-735_G_303.mtx,7716,8269,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_298.mtx,7716,8244,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_667.mtx,7716,12443,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_6.mtx,11492,22607,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_456.mtx,7716,9661,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_132.mtx,7716,6768,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_078.mtx,7716,6290,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_286.mtx,7716,8030,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_4.mtx,11492,22747,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_487.mtx,7716,10017,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_499.mtx,7716,10257,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser.mtx,194085,714570,3197,74995,115789,639368,0.859108
+/home/graphwork/Graphs/SNAP/as-caida_G_099.mtx,31379,51755,6115,9542,15710,42187,0.741973
+/home/graphwork/Graphs/SNAP/as-735_G_195.mtx,7716,7303,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_268.mtx,7716,7510,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_542.mtx,7716,10751,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_319.mtx,7716,8481,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_151.mtx,7716,7010,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_169.mtx,7716,7139,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_451.mtx,7716,9687,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_315.mtx,7716,8434,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_221.mtx,7716,7459,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_359.mtx,7716,8595,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_339.mtx,7716,8309,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-topcats_Categories.mtx,1791489,4759524,1,803747,986998,3954293,0.786486
+/home/graphwork/Graphs/SNAP/as-735_G_093.mtx,7716,6457,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_283.mtx,7716,7971,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_127.mtx,7716,6647,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_672.mtx,7716,12483,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_156.mtx,7716,7011,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_093.mtx,31379,49958,6570,9432,15363,40497,0.733897
+/home/graphwork/Graphs/SNAP/as-735_G_223.mtx,7716,7466,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_temporal_edges_4.mtx,48141,-1753009679,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_417.mtx,7716,1359,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_087.mtx,31379,49826,6889,9221,15257,40580,0.735834
+/home/graphwork/Graphs/SNAP/as-735_G_576.mtx,7716,11215,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_040.mtx,31379,44829,9519,7924,13922,36876,0.724357
+/home/graphwork/Graphs/SNAP/as-735_G_081.mtx,7716,6339,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_676.mtx,7716,12522,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_478.mtx,7716,9881,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_695.mtx,7716,8454,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_010.mtx,7716,5603,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_080.mtx,31379,49056,7302,9061,15004,39969,0.733194
+/home/graphwork/Graphs/SNAP/as-caida_G_023.mtx,31379,41762,10649,7439,13273,34289,0.712349
+/home/graphwork/Graphs/SNAP/com-Orkut_Communities_all.mtx,3072441,107080530,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_466.mtx,7716,9802,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_603.mtx,7716,11603,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_340.mtx,7716,8314,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_455.mtx,7716,9647,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_292.mtx,7716,8132,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_235.mtx,7716,7580,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal.mtx,1005,24929,Graph too small
+/home/graphwork/Graphs/SNAP/com-LiveJournal.mtx,3997962,34681189,1,840916,3120286,33706155,0.961454
+/home/graphwork/Graphs/SNAP/as-caida_G_057.mtx,31379,46167,8645,8403,14312,37725,0.725566
+/home/graphwork/Graphs/SNAP/as-735_G_629.mtx,7716,11841,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_388.mtx,7716,8931,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_224.mtx,7716,7468,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_019.mtx,31379,40485,11534,7179,12641,33259,0.704581
+/home/graphwork/Graphs/SNAP/roadNet-CA.mtx,1971281,2766607,8713,381366,1563362,2357969,0.836739
+/home/graphwork/Graphs/SNAP/as-735_G_210.mtx,7716,7353,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_042.mtx,31379,44588,9479,8067,13814,36482,0.719821
+/home/graphwork/Graphs/SNAP/com-Orkut_Communities_top5000.mtx,3072441,1078571,2339540,492776,239894,585348,0.269733
+/home/graphwork/Graphs/SNAP/as-735_G_614.mtx,7716,11703,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_291.mtx,7716,8119,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_718.mtx,7716,4604,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_645.mtx,7716,11989,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_113.mtx,7716,6649,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_331.mtx,7716,8459,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_712.mtx,7716,3376,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_025.mtx,7716,5666,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_C2A.mtx,194085,263973,96184,54692,43170,209200,0.639266
+/home/graphwork/Graphs/SNAP/as-735_G_214.mtx,7716,7390,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_696.mtx,7716,13393,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_002.mtx,7716,5537,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_230.mtx,7716,7531,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_269.mtx,7716,7503,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_505.mtx,7716,10302,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_551.mtx,7716,10915,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_040.mtx,7716,6119,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_493.mtx,7716,10098,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_011.mtx,7716,5634,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2.mtx,11806,32730,Graph too small
+/home/graphwork/Graphs/SNAP/as-735.mtx,7716,13895,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella30.mtx,36682,88328,12,16479,20192,71848,0.768208
+/home/graphwork/Graphs/SNAP/as-735_G_103.mtx,7716,6470,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_143.mtx,7716,6844,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_509.mtx,7716,10428,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_133.mtx,7716,6741,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_299.mtx,7716,8183,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-talk-temporal.mtx,1140149,2787967,47207,637032,455744,2150606,0.708293
+/home/graphwork/Graphs/SNAP/as-735_G_365.mtx,7716,8690,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_064.mtx,7716,6088,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_temporal_edges_c2q.mtx,327513,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_177.mtx,7716,7200,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_007.mtx,31379,35829,13871,6269,11232,29543,0.682454
+/home/graphwork/Graphs/SNAP/as-735_G_666.mtx,7716,12430,Graph too small
+/home/graphwork/Graphs/SNAP/roadNet-PA.mtx,1090920,1541898,3034,219142,863105,1313732,0.836121
+/home/graphwork/Graphs/SNAP/as-caida_G_063.mtx,31379,47368,8231,8606,14527,38731,0.729406
+/home/graphwork/Graphs/SNAP/as-735_G_282.mtx,7716,7975,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Brightkite_userid.mtx,4747281,-813952527,Graph too small
+/home/graphwork/Graphs/SNAP/com-Friendster_Communities_all.mtx,65608366,23479217,56189484,3667110,5701221,19730863,0.401210
+/home/graphwork/Graphs/SNAP/as-735_G_616.mtx,7716,11713,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_029.mtx,31379,43283,10041,7736,13594,35529,0.717724
+/home/graphwork/Graphs/SNAP/p2p-Gnutella25.mtx,22687,54705,13,9326,13347,45374,0.788019
+/home/graphwork/Graphs/SNAP/as-735_G_484.mtx,7716,9988,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_066.mtx,31379,46606,8133,8778,14454,37799,0.722781
+/home/graphwork/Graphs/SNAP/as-735_G_120.mtx,7716,6598,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_502.mtx,7716,10295,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_682.mtx,7716,12611,Graph too small
+/home/graphwork/Graphs/SNAP/com-Friendster.mtx,65608366,1806067135,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_182.mtx,7716,7228,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_510.mtx,7716,10360,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_692.mtx,7716,13211,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_461.mtx,7716,9735,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_564.mtx,7716,10994,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_121.mtx,31379,53381,4905,10195,16264,43155,0.742531
+/home/graphwork/Graphs/SNAP/as-735_G_102.mtx,7716,6522,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_572.mtx,7716,11060,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_648.mtx,7716,12030,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_640.mtx,7716,11963,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_068.mtx,7716,6186,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_688.mtx,7716,12896,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_115.mtx,7716,6633,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_257.mtx,7716,7635,Graph too small
+/home/graphwork/Graphs/SNAP/com-LiveJournal_Communities_all.mtx,3997962,7168339,2619278,332674,1040297,6825411,0.801277
+/home/graphwork/Graphs/SNAP/as-caida_G_072.mtx,31379,48202,7746,8949,14668,39221,0.728657
+/home/graphwork/Graphs/SNAP/as-735_G_504.mtx,7716,10304,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_704.mtx,7716,13356,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_183.mtx,7716,7203,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_322.mtx,7716,8514,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_123.mtx,7716,6632,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_002.mtx,31379,33372,14887,5993,10496,27371,0.664859
+/home/graphwork/Graphs/SNAP/as-735_G_138.mtx,7716,6827,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella09.mtx,8114,26013,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_726.mtx,7716,4653,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_120.mtx,31379,53255,5003,10157,16199,43057,0.741995
+/home/graphwork/Graphs/SNAP/twitter7_statuses_count.mtx,6499,-1429532175,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_112.mtx,7716,6689,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_nodeid.mtx,159316,-705198464,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_112.mtx,31379,52365,5392,9980,15992,42353,0.739834
+/home/graphwork/Graphs/SNAP/as-735_G_293.mtx,7716,8126,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_110.mtx,7716,6644,Graph too small
+/home/graphwork/Graphs/SNAP/higgs-twitter.mtx,456626,12508413,156,24755,431614,12483443,0.997058
+/home/graphwork/Graphs/SNAP/as-735_G_237.mtx,7716,7577,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_152.mtx,7716,7028,Graph too small
+/home/graphwork/Graphs/SNAP/com-Youtube_Communities_all.mtx,1134890,129200,1071745,34389,27552,92880,0.153099
+/home/graphwork/Graphs/SNAP/as-caida_G_113.mtx,31379,52691,5358,10091,15912,42563,0.738792
+/home/graphwork/Graphs/SNAP/as-735_G_707.mtx,7716,13485,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1.mtx,11492,23409,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_092.mtx,31379,50881,6579,9281,15507,41575,0.740996
+/home/graphwork/Graphs/SNAP/as-caida_G_005.mtx,31379,35013,14220,6107,11045,28889,0.678694
+/home/graphwork/Graphs/SNAP/as-caida_G_119.mtx,31379,53231,5011,10148,16204,43050,0.742188
+/home/graphwork/Graphs/SNAP/as-735_G_043.mtx,7716,6111,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_248.mtx,7716,7642,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_207.mtx,7716,7354,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_C2A.mtx,24818,71234,11129,6179,7506,65044,0.822508
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_C2Q.mtx,2601977,10101644,975898,459846,1166228,9641786,0.896714
+/home/graphwork/Graphs/SNAP/loc-Gowalla_userid.mtx,6442892,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_305.mtx,7716,8288,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_332.mtx,7716,8473,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_temporal_edges.mtx,1443339,-1850170895,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_691.mtx,7716,13170,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_599.mtx,7716,11523,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_020.mtx,7716,5737,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_006.mtx,7716,5515,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-epinions.mtx,131828,711210,5816,67177,58221,642761,0.864562
+/home/graphwork/Graphs/SNAP/as-735_G_203.mtx,7716,7369,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_temporal_edges_2.mtx,46772,1312892624,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_675.mtx,7716,12522,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_545.mtx,7716,10811,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_556.mtx,7716,10964,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_1.mtx,320,3031,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_426.mtx,7716,9241,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_377.mtx,7716,8729,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_732.mtx,7716,7750,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_539.mtx,7716,10676,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_137.mtx,7716,6813,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_656.mtx,7716,12179,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_304.mtx,7716,8283,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_155.mtx,7716,7014,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_071.mtx,31379,48006,7779,8844,14738,39126,0.729957
+/home/graphwork/Graphs/SNAP/as-735_G_566.mtx,7716,11027,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_289.mtx,7716,8094,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_337.mtx,7716,8289,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_604.mtx,7716,11613,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_058.mtx,31379,46085,8631,8390,14339,37656,0.725631
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_temporal_edges.mtx,506550,-223440399,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-Slashdot081106.mtx,77357,468554,8,29897,47179,438082,0.910177
+/home/graphwork/Graphs/SNAP/as-735_G_474.mtx,7716,9859,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_511.mtx,7716,10400,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_375.mtx,7716,8742,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_088.mtx,31379,50183,6838,9229,15302,40933,0.737546
+/home/graphwork/Graphs/SNAP/as-caida_G_083.mtx,31379,49225,7189,9253,14921,39939,0.730184
+/home/graphwork/Graphs/SNAP/as-735_G_089.mtx,7716,6370,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_226.mtx,7716,7513,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_233.mtx,7716,7592,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_290.mtx,7716,8084,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_671.mtx,7716,12498,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_687.mtx,7716,12712,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_046.mtx,31379,45086,9189,8213,13962,36841,0.721047
+/home/graphwork/Graphs/SNAP/as-caida_G_103.mtx,31379,52317,5906,9630,15826,42652,0.743532
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-otc_nodeid.mtx,5881,2140985024,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_211.mtx,7716,7377,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_638.mtx,7716,11967,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_246.mtx,7716,7661,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_609.mtx,7716,11626,Graph too small
+/home/graphwork/Graphs/SNAP/soc-Pokec_public.mtx,1632803,-1369251343,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_391.mtx,7716,8938,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_2.mtx,11492,21999,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_462.mtx,7716,9766,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_099.mtx,7716,6369,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_136.mtx,7716,6783,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_206.mtx,7716,7354,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_677.mtx,7716,12553,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_236.mtx,7716,7561,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_624.mtx,7716,11778,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida.mtx,31379,53381,4905,10195,16264,43155,0.742531
+/home/graphwork/Graphs/SNAP/as-735_G_703.mtx,7716,13326,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_284.mtx,7716,7985,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_719.mtx,7716,4675,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_507.mtx,7716,10333,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_167.mtx,7716,7146,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_106.mtx,7716,6562,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_433.mtx,7716,9414,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_054.mtx,7716,6150,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_690.mtx,7716,12933,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_654.mtx,7716,12097,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_115.mtx,31379,53156,5241,9982,16135,43132,0.743687
+/home/graphwork/Graphs/SNAP/as-735_G_215.mtx,7716,7421,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-Vote.mtx,8297,100762,1206,2307,4786,98456,0.961286
+/home/graphwork/Graphs/SNAP/as-735_G_338.mtx,7716,8275,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_468.mtx,7716,9777,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_267.mtx,7716,7525,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_117.mtx,31379,53174,5138,10134,16094,43012,0.741452
+/home/graphwork/Graphs/SNAP/as-735_G_253.mtx,7716,7667,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_260.mtx,7716,7677,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_592.mtx,7716,11497,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_047.mtx,31379,45001,9175,8179,14009,36789,0.721587
+/home/graphwork/Graphs/SNAP/as-caida_G_074.mtx,31379,48648,7597,8940,14827,39676,0.731914
+/home/graphwork/Graphs/SNAP/as-735_G_348.mtx,7716,8394,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_3.mtx,11806,31761,Graph too small
+/home/graphwork/Graphs/SNAP/email-Enron.mtx,36692,183831,1065,12093,20416,163257,0.857986
+/home/graphwork/Graphs/SNAP/as-735_G_407.mtx,7716,1291,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_015.mtx,31379,38562,12290,6927,12153,31617,0.694792
+/home/graphwork/Graphs/SNAP/as-735_G_073.mtx,7716,6185,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_646.mtx,7716,11996,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_154.mtx,7716,6995,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_489.mtx,7716,10073,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_034.mtx,7716,6054,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_423.mtx,7716,9231,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_085.mtx,7716,6405,Graph too small
+/home/graphwork/Graphs/SNAP/com-DBLP_Communities_top5000.mtx,317080,112228,220963,81020,13013,27381,0.125153
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_3.mtx,90,1506,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_nodeid.mtx,194085,585417201,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_706.mtx,7716,13420,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_570.mtx,7716,11023,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_temporal_edges_1.mtx,61046,1331718912,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_568.mtx,7716,11046,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_159.mtx,7716,7036,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_250.mtx,7716,7651,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_256.mtx,7716,7694,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_361.mtx,7716,8645,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_608.mtx,7716,11699,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_562.mtx,7716,11005,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_266.mtx,7716,7559,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_218.mtx,7716,7467,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_535.mtx,7716,10649,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_187.mtx,7716,7251,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_118.mtx,31379,53601,5122,10121,16121,43448,0.743370
+/home/graphwork/Graphs/SNAP/as-735_G_464.mtx,7716,9802,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_9.mtx,11492,23409,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_431.mtx,7716,9323,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_597.mtx,7716,11530,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_280.mtx,7716,7933,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_655.mtx,7716,12103,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_070.mtx,31379,39342,8308,10581,12464,28709,0.634927
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_temporal_edges_a2q.mtx,17823525,-1605363840,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_416.mtx,7716,1376,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_100.mtx,31379,51444,6066,9526,15772,41886,0.741388
+/home/graphwork/Graphs/SNAP/as-735_G_055.mtx,7716,6086,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_024.mtx,31379,41820,10491,7553,13319,34236,0.711109
+/home/graphwork/Graphs/SNAP/as-735_G_039.mtx,7716,6076,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_171.mtx,7716,7200,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_temporal_edges_3.mtx,12216,-1418584320,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_003.mtx,31379,33340,14725,5998,10646,27321,0.665803
+/home/graphwork/Graphs/SNAP/as-735_G_373.mtx,7716,8849,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Brightkite_latitude.mtx,4747281,-1160363535,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_045.mtx,7716,6121,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_027.mtx,7716,5778,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_694.mtx,7716,8680,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_7.mtx,11806,31303,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_153.mtx,7716,6976,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_temporal_edges_a2q.mtx,430033,-649120048,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_578.mtx,7716,11210,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_582.mtx,7716,11283,Graph too small
+/home/graphwork/Graphs/SNAP/com-Amazon.mtx,334863,925872,1,35494,281089,837931,0.894972
+/home/graphwork/Graphs/SNAP/Oregon-1_G_5.mtx,11492,22493,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella31.mtx,62586,147892,12,28762,33812,119127,0.759176
+/home/graphwork/Graphs/SNAP/as-735_G_070.mtx,7716,6195,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_110.mtx,31379,52423,5639,9842,15880,42544,0.741186
+/home/graphwork/Graphs/SNAP/as-735_G_234.mtx,7716,7588,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_149.mtx,7716,6430,Graph too small
+/home/graphwork/Graphs/SNAP/twitter7_nodeid.mtx,41652230,-1300982064,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_334.mtx,7716,8239,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_098.mtx,31379,51234,6222,9480,15665,41729,0.740569
+/home/graphwork/Graphs/SNAP/as-735_G_227.mtx,7716,7498,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_209.mtx,7716,7331,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_069.mtx,7716,6185,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_398.mtx,7716,9050,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_368.mtx,7716,8703,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_262.mtx,7716,7474,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_613.mtx,7716,11692,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_459.mtx,7716,9690,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_579.mtx,7716,11205,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_713.mtx,7716,4576,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_540.mtx,7716,10711,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_612.mtx,7716,11641,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_324.mtx,7716,8543,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_699.mtx,7716,13396,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_327.mtx,7716,8517,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_231.mtx,7716,7574,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_439.mtx,7716,9428,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_193.mtx,7716,7280,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_336.mtx,7716,8271,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_068.mtx,31379,46655,8027,8843,14492,37777,0.722165
+/home/graphwork/Graphs/SNAP/as-caida_G_036.mtx,31379,44308,9722,7899,13743,36377,0.720838
+/home/graphwork/Graphs/SNAP/as-735_G_401.mtx,7716,9112,Graph too small
+/home/graphwork/Graphs/SNAP/soc-Slashdot0811.mtx,77360,469180,1,29867,47217,438734,0.910374
+/home/graphwork/Graphs/SNAP/as-735_G_497.mtx,7716,10244,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_004.mtx,7716,5563,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_027.mtx,31379,42872,10148,7661,13561,35191,0.716708
+/home/graphwork/Graphs/SNAP/as-735_G_014.mtx,7716,5674,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Brightkite_longitude.mtx,4747281,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_460.mtx,7716,9730,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_054.mtx,31379,46085,8778,8309,14279,37749,0.726651
+/home/graphwork/Graphs/SNAP/as-caida_G_048.mtx,31379,45410,9110,8171,14080,37202,0.724098
+/home/graphwork/Graphs/SNAP/as-735_G_596.mtx,7716,11551,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_617.mtx,7716,11686,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_174.mtx,7716,7184,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_039.mtx,31379,43902,9646,7991,13726,35877,0.717216
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-alpha_Time.mtx,3783,24186,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_530.mtx,7716,10613,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_204.mtx,7716,7323,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_Vote.mtx,198275,-1281668608,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_175.mtx,7716,7200,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow.mtx,24818,187986,104,6075,18627,181884,0.954103
+/home/graphwork/Graphs/SNAP/as-735_G_501.mtx,7716,10307,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_634.mtx,7716,11917,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_454.mtx,7716,9634,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_424.mtx,7716,9220,Graph too small
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_A2Q.mtx,2601977,15786816,182621,890733,1528557,14895957,0.916457
+/home/graphwork/Graphs/SNAP/roadNet-TX.mtx,1393383,1921660,13890,293694,1050434,1572562,0.801183
+/home/graphwork/Graphs/SNAP/Oregon-2_G_1.mtx,11806,31180,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_428.mtx,7716,9312,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_212.mtx,7716,7401,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_028.mtx,31379,42481,10135,7723,13509,34733,0.713205
+/home/graphwork/Graphs/SNAP/web-BerkStan.mtx,685230,6649470,676,62295,489296,5939242,0.884413
+/home/graphwork/Graphs/SNAP/p2p-Gnutella04.mtx,10879,39994,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_nodename.mtx,11492,-1656966671,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_367.mtx,7716,8716,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_385.mtx,7716,8892,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_111.mtx,31379,52383,5580,9900,15882,42447,0.740211
+/home/graphwork/Graphs/SNAP/as-735_G_415.mtx,7716,1321,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_270.mtx,7716,7488,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_659.mtx,7716,12277,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_C2Q.mtx,194085,238121,102415,40334,51336,197784,0.666696
+/home/graphwork/Graphs/SNAP/as-735_G_537.mtx,7716,10724,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_689.mtx,7716,12921,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_380.mtx,7716,8834,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_403.mtx,7716,8974,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_408.mtx,7716,1273,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_018.mtx,31379,40198,11660,7147,12545,32999,0.702688
+/home/graphwork/Graphs/SNAP/as-735_G_533.mtx,7716,10603,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_294.mtx,7716,8163,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-talk-temporal_temporal_edges.mtx,7833140,-644107791,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_717.mtx,7716,4596,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_009.mtx,7716,5607,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_429.mtx,7716,9332,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_TargetNode.mtx,198275,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_422.mtx,7716,9224,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_649.mtx,7716,12024,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_697.mtx,7716,6158,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_383.mtx,7716,8871,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_009.mtx,31379,37172,13532,6316,11521,30833,0.692252
+/home/graphwork/Graphs/SNAP/as-735_G_168.mtx,7716,7163,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_095.mtx,7716,6469,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_080.mtx,7716,6316,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA.mtx,11380,180980,4,3659,7719,177322,0.970598
+/home/graphwork/Graphs/SNAP/as-735_G_349.mtx,7716,8487,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_145.mtx,7716,6897,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_265.mtx,7716,7487,Graph too small
+/home/graphwork/Graphs/SNAP/cit-HepPh.mtx,34546,420877,61,1415,32997,419305,0.994645
+/home/graphwork/Graphs/SNAP/as-735_G_560.mtx,7716,10982,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_251.mtx,7716,7646,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_325.mtx,7716,8543,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_C2A.mtx,159316,162511,86680,44821,27780,117617,0.543038
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_Dept_2.mtx,172,1772,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_277.mtx,7716,7925,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_006.mtx,31379,35547,14074,6193,11100,29326,0.680687
+/home/graphwork/Graphs/SNAP/soc-Slashdot0902.mtx,82168,504230,1,30288,51528,473218,0.915036
+/home/graphwork/Graphs/SNAP/as-caida_G_052.mtx,31379,45550,8938,8309,14117,37210,0.722875
+/home/graphwork/Graphs/SNAP/as-735_G_184.mtx,7716,7230,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_621.mtx,7716,11743,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_619.mtx,7716,11746,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_118.mtx,7716,6574,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_162.mtx,7716,7069,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_517.mtx,7716,10484,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_Year.mtx,198275,214648528,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_685.mtx,7716,12639,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_056.mtx,31379,46413,8674,8312,14374,38062,0.728618
+/home/graphwork/Graphs/SNAP/as-735_G_033.mtx,7716,6038,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_064.mtx,31379,46779,8254,8655,14453,38089,0.725414
+/home/graphwork/Graphs/SNAP/as-735_G_314.mtx,7716,8446,Graph too small
+/home/graphwork/Graphs/SNAP/ca-CondMat.mtx,23133,93439,567,3343,17234,84595,0.887687
+/home/graphwork/Graphs/SNAP/as-735_G_363.mtx,7716,8658,Graph too small
+/home/graphwork/Graphs/SNAP/web-Stanford.mtx,281903,1992636,365,29470,181906,1676077,0.828197
+/home/graphwork/Graphs/SNAP/as-caida_G_053.mtx,31379,45148,8919,8363,14083,36756,0.719910
+/home/graphwork/Graphs/SNAP/as-735_G_469.mtx,7716,9782,Graph too small
+/home/graphwork/Graphs/SNAP/ca-HepPh_nodename.mtx,12008,-1634621744,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_017.mtx,7716,5657,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_075.mtx,31379,48746,7496,8925,14940,39784,0.733354
+/home/graphwork/Graphs/SNAP/as-735_G_714.mtx,7716,4634,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_430.mtx,7716,9322,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_047.mtx,7716,6151,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_710.mtx,7716,3422,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_522.mtx,7716,10533,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_513.mtx,7716,10424,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_197.mtx,7716,7334,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_584.mtx,7716,11389,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_084.mtx,7716,6373,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_019.mtx,7716,5687,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_180.mtx,7716,7181,Graph too small
+/home/graphwork/Graphs/SNAP/ca-AstroPh_nodename.mtx,18772,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_333.mtx,7716,8241,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_176.mtx,7716,7204,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_046.mtx,7716,6137,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_346.mtx,7716,8377,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella24.mtx,26518,65369,11,10990,15519,54380,0.790297
+/home/graphwork/Graphs/SNAP/as-735_G_557.mtx,7716,10987,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_029.mtx,7716,6010,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_035.mtx,31379,43780,9797,7914,13656,35840,0.717477
+/home/graphwork/Graphs/SNAP/as-735_G_139.mtx,7716,6834,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_309.mtx,7716,8344,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_546.mtx,7716,10830,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_387.mtx,7716,8969,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_512.mtx,7716,10434,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_643.mtx,7716,11979,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_628.mtx,7716,11803,Graph too small
+/home/graphwork/Graphs/SNAP/ca-GrQc_nodename.mtx,5242,-1940994352,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_458.mtx,7716,9655,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_158.mtx,7716,7036,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_362.mtx,7716,8626,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_104.mtx,31379,52412,5854,9610,15896,42763,0.744639
+/home/graphwork/Graphs/SNAP/as-735_G_475.mtx,7716,9868,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_026.mtx,7716,5785,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_041.mtx,7716,6121,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_529.mtx,7716,10584,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_Neutral.mtx,11380,11846,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_524.mtx,7716,10505,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_652.mtx,7716,12096,Graph too small
+/home/graphwork/Graphs/SNAP/com-LiveJournal_nodeid.mtx,3997962,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_264.mtx,7716,7470,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_060.mtx,7716,6239,Graph too small
+/home/graphwork/Graphs/SNAP/ca-AstroPh.mtx,18772,198050,290,1690,15929,193922,0.973247
+/home/graphwork/Graphs/SNAP/as-caida_G_049.mtx,31379,45392,9048,8233,14081,37124,0.723042
+/home/graphwork/Graphs/SNAP/wiki-Talk.mtx,2394385,4659565,2555,1769165,622315,2889703,0.546524
+/home/graphwork/Graphs/SNAP/as-735_G_674.mtx,7716,12484,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_028.mtx,7716,5990,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_589.mtx,7716,11427,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_630.mtx,7716,11894,Graph too small
+/home/graphwork/Graphs/SNAP/com-DBLP.mtx,317080,1049866,1,68360,211409,883570,0.818661
+/home/graphwork/Graphs/SNAP/as-735_G_669.mtx,7716,12485,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_446.mtx,7716,9537,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_518.mtx,7716,10473,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_647.mtx,7716,12007,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_247.mtx,7716,7654,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_555.mtx,7716,10970,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_583.mtx,7716,11308,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-otc.mtx,5881,35592,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_9.mtx,11806,32730,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_573.mtx,7716,11110,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Gowalla_longitude.mtx,6442892,-1181289999,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_449.mtx,7716,9592,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_307.mtx,7716,8288,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_061.mtx,31379,47193,8415,8539,14410,38623,0.728788
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-alpha_nodeid.mtx,3783,1006750912,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_393.mtx,7716,8953,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_590.mtx,7716,7178,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_384.mtx,7716,8874,Graph too small
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_temporal_edges_c2a.mtx,25405374,-640871951,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_245.mtx,7716,7574,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_281.mtx,7716,7975,Graph too small
+/home/graphwork/Graphs/SNAP/amazon0601.mtx,403394,2443408,7,13331,387422,2416749,0.986902
+/home/graphwork/Graphs/SNAP/as-caida_G_081.mtx,31379,42994,10474,7994,12897,34971,0.705812
+/home/graphwork/Graphs/SNAP/as-735_G_317.mtx,7716,8455,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_201.mtx,7716,7337,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_192.mtx,7716,7293,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_Result.mtx,198275,956245712,Graph too large
+/home/graphwork/Graphs/SNAP/as-caida_G_095.mtx,31379,51145,6438,9404,15525,41716,0.740314
+/home/graphwork/Graphs/SNAP/as-Skitter.mtx,1696415,11095298,756,238721,1443769,10830987,0.967293
+/home/graphwork/Graphs/SNAP/as-caida_G_122.mtx,31379,52861,4991,10149,16219,42672,0.740790
+/home/graphwork/Graphs/SNAP/com-Friendster_nodeid.mtx,65608366,-1388902704,Graph too small
+/home/graphwork/Graphs/SNAP/email-EuAll.mtx,265214,364481,15836,213213,36106,151162,0.340413
+/home/graphwork/Graphs/SNAP/as-caida_G_044.mtx,31379,44780,9308,8121,13936,36630,0.720992
+/home/graphwork/Graphs/SNAP/as-735_G_296.mtx,7716,8112,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_074.mtx,7716,6204,Graph too small
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_temporal_edges.mtx,63497050,-1889635855,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_636.mtx,7716,11929,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_577.mtx,7716,11199,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_622.mtx,7716,7382,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_147.mtx,7716,6934,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_538.mtx,7716,10666,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_432.mtx,7716,9392,Graph too small
+/home/graphwork/Graphs/SNAP/higgs-twitter_temporal_edges.mtx,563069,1301705201,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_254.mtx,7716,7688,Graph too small
+/home/graphwork/Graphs/SNAP/com-Youtube_nodeid.mtx,1134890,-406358320,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_038.mtx,7716,6068,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_437.mtx,7716,9432,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_056.mtx,7716,6171,Graph too small
+/home/graphwork/Graphs/SNAP/higgs-twitter_retweet.mtx,456626,327374,213334,188396,54606,138435,0.298258
+/home/graphwork/Graphs/SNAP/as-735_G_378.mtx,7716,8822,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_658.mtx,7716,12254,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_3.mtx,11492,22469,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_208.mtx,7716,7339,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_272.mtx,7716,7482,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella05.mtx,8846,31839,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_620.mtx,7716,11720,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_076.mtx,31379,49089,7462,8953,14949,40105,0.734495
+/home/graphwork/Graphs/SNAP/as-735_G_049.mtx,7716,6160,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_442.mtx,7716,9526,Graph too small
+/home/graphwork/Graphs/SNAP/ca-CondMat_nodename.mtx,23133,-254322992,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_198.mtx,7716,7323,Graph too small
+/home/graphwork/Graphs/SNAP/ca-GrQc.mtx,5242,14496,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_326.mtx,7716,8544,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_531.mtx,7716,10677,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_344.mtx,7716,8332,Graph too small
+/home/graphwork/Graphs/SNAP/CollegeMsg.mtx,1899,20296,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_205.mtx,7716,7373,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_661.mtx,7716,12327,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_581.mtx,7716,11263,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_693.mtx,7716,13257,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_639.mtx,7716,248,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_498.mtx,7716,10183,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_130.mtx,7716,6727,Graph too small
+/home/graphwork/Graphs/SNAP/cit-Patents.mtx,3774768,16518947,3627,678955,3090253,15836408,0.944324
+/home/graphwork/Graphs/SNAP/as-735_G_217.mtx,7716,7449,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-otc_temporal_edges.mtx,35592,206837456,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_170.mtx,7716,7170,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_050.mtx,31379,45196,9063,8300,13999,36861,0.720377
+/home/graphwork/Graphs/SNAP/as-735_G_376.mtx,7716,8742,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_379.mtx,7716,8836,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_082.mtx,31379,49200,7238,9142,14990,40038,0.732522
+/home/graphwork/Graphs/SNAP/as-735_G_467.mtx,7716,9812,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_032.mtx,7716,6016,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_090.mtx,7716,6461,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_701.mtx,7716,13479,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_096.mtx,31379,51178,6290,9450,15628,41705,0.740554
+/home/graphwork/Graphs/SNAP/as-caida_G_090.mtx,31379,50462,6731,9270,15365,41165,0.738419
+/home/graphwork/Graphs/SNAP/as-735_G_196.mtx,7716,7323,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_069.mtx,31379,46095,7990,8963,14410,37098,0.717057
+/home/graphwork/Graphs/SNAP/as-735_G_536.mtx,7716,10686,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_061.mtx,7716,6174,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_520.mtx,7716,10501,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_371.mtx,7716,8775,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_229.mtx,7716,7541,Graph too small
+/home/graphwork/Graphs/SNAP/com-Youtube_Communities_top5000.mtx,1134890,72959,1092667,27983,13594,43917,0.079191
+/home/graphwork/Graphs/SNAP/as-735_G_129.mtx,7716,6686,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_527.mtx,7716,10542,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_532.mtx,7716,10606,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_544.mtx,7716,10795,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_708.mtx,7716,1857,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_051.mtx,31379,45050,8924,8257,14186,36768,0.722117
+/home/graphwork/Graphs/SNAP/as-735_G_140.mtx,7716,6856,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_222.mtx,7716,7458,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_016.mtx,31379,38930,12113,6957,12293,31943,0.697361
+/home/graphwork/Graphs/SNAP/as-735_G_021.mtx,7716,5751,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_275.mtx,7716,7648,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_051.mtx,7716,6177,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_160.mtx,7716,7036,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_C2Q.mtx,24818,89370,8127,4460,12232,84909,0.894340
+/home/graphwork/Graphs/SNAP/as-735_G_065.mtx,7716,6124,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_012.mtx,7716,5629,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_727.mtx,7716,4637,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_575.mtx,7716,11138,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_610.mtx,7716,11706,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_419.mtx,7716,1344,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_552.mtx,7716,10919,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_045.mtx,31379,44576,9294,8217,13851,36325,0.717666
+/home/graphwork/Graphs/SNAP/as-caida_G_094.mtx,31379,51238,6411,9323,15635,41893,0.742751
+/home/graphwork/Graphs/SNAP/as-735_G_615.mtx,7716,11719,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_A2Q.mtx,159316,246781,31105,81740,46455,165010,0.576639
+/home/graphwork/Graphs/SNAP/as-735_G_128.mtx,7716,6671,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_443.mtx,7716,9524,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_164.mtx,7716,7115,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_563.mtx,7716,11006,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_008.mtx,31379,36070,13725,6251,11398,29806,0.685961
+/home/graphwork/Graphs/SNAP/as-735_G_595.mtx,7716,11522,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-Slashdot090216.mtx,81871,497672,5,30250,51269,466707,0.914101
+/home/graphwork/Graphs/SNAP/as-735_G_071.mtx,7716,6194,Graph too small
+/home/graphwork/Graphs/SNAP/soc-Pokec_completion_percentage.mtx,1632803,-2034338096,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_357.mtx,7716,8578,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_593.mtx,7716,11482,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_125.mtx,7716,6648,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_550.mtx,7716,10889,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_083.mtx,7716,6408,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_142.mtx,7716,6878,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_037.mtx,31379,44327,9708,7923,13732,36371,0.720419
+/home/graphwork/Graphs/SNAP/as-735_G_191.mtx,7716,5703,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_nodename.mtx,7716,1950747840,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_664.mtx,7716,12412,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_239.mtx,7716,7572,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_026.mtx,31379,42734,10223,7636,13506,35069,0.715842
+/home/graphwork/Graphs/SNAP/as-735_G_161.mtx,7716,7061,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_351.mtx,7716,8487,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_480.mtx,7716,9904,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_665.mtx,7716,12433,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_601.mtx,7716,11549,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_306.mtx,7716,8283,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_261.mtx,7716,7682,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_441.mtx,7716,9485,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_094.mtx,7716,6476,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_486.mtx,7716,10002,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_243.mtx,7716,7638,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_temporal_edges_a2q.mtx,280102,-1313072384,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_473.mtx,7716,9828,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_117.mtx,7716,6654,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_418.mtx,7716,1376,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_559.mtx,7716,10974,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Gowalla_location_id.mtx,6442892,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_491.mtx,7716,10103,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_495.mtx,7716,10132,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_591.mtx,7716,11475,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_200.mtx,7716,7329,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-alpha_temporal_edges.mtx,24186,1823554752,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_684.mtx,7716,12612,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_345.mtx,7716,8411,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_670.mtx,7716,12476,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_492.mtx,7716,10085,Graph too small
+/home/graphwork/Graphs/SNAP/web-NotreDame.mtx,325729,1090108,1,167543,134958,833732,0.719258
+/home/graphwork/Graphs/SNAP/as-caida_G_067.mtx,31379,47242,8030,8758,14576,38453,0.726838
+/home/graphwork/Graphs/SNAP/cit-HepTh.mtx,27770,352285,143,1686,25742,350158,0.991422
+/home/graphwork/Graphs/SNAP/as-735_G_173.mtx,7716,7185,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_041.mtx,31379,44472,9495,8031,13838,36410,0.720211
+/home/graphwork/Graphs/SNAP/as-735_G_189.mtx,7716,7268,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_021.mtx,31379,40941,11036,7370,12957,33541,0.706677
+/home/graphwork/Graphs/SNAP/as-735_G_526.mtx,7716,10504,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_729.mtx,7716,4683,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_temporal_edges_c2a.mtx,356822,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_463.mtx,7716,9802,Graph too small
+/home/graphwork/Graphs/SNAP/soc-sign-bitcoin-alpha.mtx,3783,24186,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_508.mtx,7716,10365,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_144.mtx,7716,6893,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_001.mtx,31379,32955,15079,5860,10424,27061,0.663446
+/home/graphwork/Graphs/SNAP/as-735_G_023.mtx,7716,5750,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_148.mtx,7716,6924,Graph too small
+/home/graphwork/Graphs/SNAP/com-LiveJournal_Communities_top5000.mtx,3997962,139011,3911488,54046,14287,41942,0.022959
+/home/graphwork/Graphs/SNAP/as-735_G_007.mtx,7716,5595,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_414.mtx,7716,1335,Graph too small
+/home/graphwork/Graphs/SNAP/sx-superuser_A2Q.mtx,194085,383969,33685,95769,64625,288188,0.666305
+/home/graphwork/Graphs/SNAP/as-735_G_521.mtx,7716,10508,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_179.mtx,7716,7209,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_025.mtx,31379,42925,10178,7514,13674,35383,0.720300
+/home/graphwork/Graphs/SNAP/as-caida_G_065.mtx,31379,47534,8185,8677,14502,38825,0.728780
+/home/graphwork/Graphs/SNAP/as-caida_G_085.mtx,31379,49583,7083,9178,15108,40383,0.734413
+/home/graphwork/Graphs/SNAP/as-735_G_412.mtx,7716,1289,Graph too small
+/home/graphwork/Graphs/SNAP/com-DBLP_nodeid.mtx,317080,195695089,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_003.mtx,7716,5581,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_157.mtx,7716,7045,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_011.mtx,31379,37559,13102,6496,11774,31047,0.693616
+/home/graphwork/Graphs/SNAP/CollegeMsg_temporal_edges.mtx,59835,-1147067919,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_611.mtx,7716,11698,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_308.mtx,7716,8336,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_141.mtx,7716,6869,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_258.mtx,7716,7641,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_SourceNode.mtx,198275,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_001.mtx,7716,5539,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_660.mtx,7716,12260,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_078.mtx,31379,49391,7324,9040,14999,40318,0.734744
+/home/graphwork/Graphs/SNAP/as-735_G_711.mtx,7716,3386,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_098.mtx,7716,6423,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_409.mtx,7716,1310,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_042.mtx,7716,6106,Graph too small
+/home/graphwork/Graphs/SNAP/cit-HepTh_nodename.mtx,27770,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_240.mtx,7716,7568,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_549.mtx,7716,10243,Graph too small
+/home/graphwork/Graphs/SNAP/twitter7.mtx,41652230,1468365182,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_625.mtx,7716,11739,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_031.mtx,7716,6012,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_092.mtx,7716,6456,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_627.mtx,7716,11714,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_548.mtx,7716,10865,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_571.mtx,7716,11088,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_013.mtx,7716,5660,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_311.mtx,7716,8384,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_072.mtx,7716,6203,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_178.mtx,7716,7190,Graph too small
+/home/graphwork/Graphs/SNAP/ca-HepTh_nodename.mtx,9877,-1044942016,Graph too small
+/home/graphwork/Graphs/SNAP/com-Amazon_nodeid.mtx,334863,1728517840,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_355.mtx,7716,8555,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_temporal_edges_c2q.mtx,203639,-972893120,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_nodename.mtx,11806,-676395312,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_076.mtx,7716,6270,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_490.mtx,7716,10095,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_022.mtx,31379,41069,10867,7483,13003,33538,0.705436
+/home/graphwork/Graphs/SNAP/as-735_G_389.mtx,7716,8951,Graph too small
+/home/graphwork/Graphs/SNAP/sx-stackoverflow.mtx,2601977,28183518,23580,625497,1952658,27557536,0.967758
+/home/graphwork/Graphs/SNAP/as-735_G_585.mtx,7716,11408,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core-temporal_temporal_edges.mtx,332334,1781610816,Graph too large
+/home/graphwork/Graphs/SNAP/loc-Gowalla.mtx,196591,950327,1,56260,137519,887929,0.912329
+/home/graphwork/Graphs/SNAP/as-735_G_440.mtx,7716,9410,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_731.mtx,7716,4676,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_483.mtx,7716,9978,Graph too small
+/home/graphwork/Graphs/SNAP/twitter7_friends_count.mtx,6499,661316992,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_053.mtx,7716,6157,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_259.mtx,7716,7677,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_310.mtx,7716,8355,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_temporal_edges.mtx,964437,115156688,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_586.mtx,7716,11386,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_514.mtx,7716,10416,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_055.mtx,31379,45738,8740,8348,14277,37360,0.724407
+/home/graphwork/Graphs/SNAP/as-735_G_567.mtx,7716,11042,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-RfA_Positive.mtx,11380,133803,1399,3449,6533,130353,0.957894
+/home/graphwork/Graphs/SNAP/as-735_G_485.mtx,7716,9989,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_644.mtx,7716,12023,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_102.mtx,31379,52048,6028,9586,15746,42423,0.742513
+/home/graphwork/Graphs/SNAP/as-735_G_450.mtx,7716,9589,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_252.mtx,7716,7653,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_668.mtx,7716,12468,Graph too small
+/home/graphwork/Graphs/SNAP/loc-Gowalla_latitude.mtx,6442892,-1482488112,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_101.mtx,7716,6515,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_104.mtx,7716,6552,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_465.mtx,7716,9812,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_271.mtx,7716,7512,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_515.mtx,7716,10433,Graph too small
+/home/graphwork/Graphs/SNAP/soc-Pokec_user_id.mtx,1632803,-1530895887,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_318.mtx,7716,8477,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_097.mtx,7716,6520,Graph too small
+/home/graphwork/Graphs/SNAP/email-Eu-core.mtx,1005,25571,Graph too small
+/home/graphwork/Graphs/SNAP/com-Orkut.mtx,3072441,117185083,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_721.mtx,7716,4638,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_089.mtx,31379,50738,6770,9136,15462,41579,0.742313
+/home/graphwork/Graphs/SNAP/Oregon-1_G_7.mtx,11492,22677,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_186.mtx,7716,7251,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_494.mtx,7716,10125,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_181.mtx,7716,7210,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_618.mtx,7716,11738,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_225.mtx,7716,7367,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_553.mtx,7716,10945,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_733.mtx,7716,13895,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_313.mtx,7716,8412,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_8.mtx,11492,22724,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_481.mtx,7716,9933,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_500.mtx,7716,10263,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_453.mtx,7716,9600,Graph too small
+/home/graphwork/Graphs/SNAP/wiki-topcats.mtx,1791489,25444207,1,6387,1784918,25437445,0.999619
+/home/graphwork/Graphs/SNAP/wiki-RfA_Negative.mtx,11380,39206,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_013.mtx,31379,38501,12640,6606,12121,31870,0.699947
+/home/graphwork/Graphs/SNAP/as-735_G_476.mtx,7716,9899,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_067.mtx,7716,6173,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_653.mtx,7716,12080,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_436.mtx,7716,9425,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_146.mtx,7716,6931,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_683.mtx,7716,12633,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_543.mtx,7716,10800,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_626.mtx,7716,11791,Graph too small
+/home/graphwork/Graphs/SNAP/amazon0302.mtx,262111,899792,1,7849,248019,869757,0.964029
+/home/graphwork/Graphs/SNAP/as-735_G_663.mtx,7716,12384,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_434.mtx,7716,9425,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_228.mtx,7716,7521,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_554.mtx,7716,10947,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_730.mtx,7716,4715,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_724.mtx,7716,4587,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_300.mtx,7716,8207,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-1_G_1.mtx,11492,22002,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_374.mtx,7716,8828,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_352.mtx,7716,8466,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_091.mtx,31379,50827,6604,9301,15461,41499,0.740110
+/home/graphwork/Graphs/SNAP/as-735_G_602.mtx,7716,11588,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_285.mtx,7716,8031,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_087.mtx,7716,6334,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_516.mtx,7716,10540,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_600.mtx,7716,11541,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_728.mtx,7716,4707,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_716.mtx,7716,4642,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_288.mtx,7716,8059,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu.mtx,159316,455691,4250,65271,89661,390154,0.812525
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_temporal_edges_c2a.mtx,195330,93274609,Graph too large
+/home/graphwork/Graphs/SNAP/as-735_G_438.mtx,7716,9432,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_503.mtx,7716,10340,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_010.mtx,31379,37497,13280,6428,11660,31047,0.693353
+/home/graphwork/Graphs/SNAP/as-735_G_188.mtx,7716,7252,Graph too small
+/home/graphwork/Graphs/SNAP/higgs-twitter_reply.mtx,456626,32523,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_390.mtx,7716,8944,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_060.mtx,31379,47090,8462,8432,14468,38624,0.730461
+/home/graphwork/Graphs/SNAP/as-caida_G_032.mtx,31379,43969,9855,7725,13784,36212,0.722512
+/home/graphwork/Graphs/SNAP/as-735_G_394.mtx,7716,8994,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_166.mtx,7716,7147,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_097.mtx,31379,51106,6324,9409,15631,41665,0.740776
+/home/graphwork/Graphs/SNAP/as-735_G_096.mtx,7716,6497,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_425.mtx,7716,9187,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_681.mtx,7716,12591,Graph too small
+/home/graphwork/Graphs/SNAP/com-Friendster_Communities_top5000.mtx,65608366,234032,65386267,208815,7245,13201,0.000509
+/home/graphwork/Graphs/SNAP/as-735_G_301.mtx,7716,8203,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_nodename.mtx,31379,1737823952,Graph too large
+/home/graphwork/Graphs/SNAP/as-caida_G_084.mtx,31379,48986,7113,9220,15034,39740,0.730679
+/home/graphwork/Graphs/SNAP/as-735_G_075.mtx,7716,6246,Graph too small
+/home/graphwork/Graphs/SNAP/sx-mathoverflow_A2Q.mtx,24818,87178,3419,9938,11462,77239,0.833141
+/home/graphwork/Graphs/SNAP/as-735_G_114.mtx,7716,6627,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_287.mtx,7716,7992,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_342.mtx,7716,8341,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_678.mtx,7716,12552,Graph too small
+/home/graphwork/Graphs/SNAP/sx-askubuntu_C2Q.mtx,159316,159249,83746,39438,36130,119805,0.577086
+/home/graphwork/Graphs/SNAP/soc-Pokec.mtx,1632803,22301964,1,166960,1465302,22133875,0.989107
+/home/graphwork/Graphs/SNAP/sx-stackoverflow_C2A.mtx,2601977,10729258,969790,629744,1002291,10099209,0.881142
+/home/graphwork/Graphs/SNAP/as-735_G_086.mtx,7716,6371,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_033.mtx,31379,43892,9832,7790,13748,36082,0.720962
+/home/graphwork/Graphs/SNAP/as-735_G_036.mtx,7716,6092,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_052.mtx,7716,6196,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_623.mtx,7716,11787,Graph too small
+/home/graphwork/Graphs/SNAP/ca-HepTh.mtx,9877,25998,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_126.mtx,7716,6634,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_720.mtx,7716,4580,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_8.mtx,11806,32287,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_066.mtx,7716,6149,Graph too small
+/home/graphwork/Graphs/SNAP/Oregon-2_G_6.mtx,11806,30943,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_561.mtx,7716,10961,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_038.mtx,31379,44322,9626,7896,13844,36398,0.721862
+/home/graphwork/Graphs/SNAP/as-735_G_219.mtx,7716,7457,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_341.mtx,7716,8288,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_328.mtx,7716,8537,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_105.mtx,7716,6553,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_479.mtx,7716,9886,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_255.mtx,7716,7713,Graph too small
+/home/graphwork/Graphs/SNAP/twitter7_followers_count.mtx,6499,0,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_565.mtx,7716,11027,Graph too small
+/home/graphwork/Graphs/SNAP/com-Amazon_Communities_top5000.mtx,334863,67462,314282,4122,354,1998,0.009260
+/home/graphwork/Graphs/SNAP/as-735_G_598.mtx,7716,11524,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_413.mtx,7716,1340,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_673.mtx,7716,12470,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_651.mtx,7716,12080,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_249.mtx,7716,7643,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_323.mtx,7716,8596,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_213.mtx,7716,7307,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_016.mtx,7716,5637,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella06.mtx,8717,31525,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_017.mtx,31379,39859,11891,6937,12537,32894,0.705015
+/home/graphwork/Graphs/SNAP/as-735_G_024.mtx,7716,5760,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_109.mtx,31379,52401,5554,9810,15997,42554,0.742431
+/home/graphwork/Graphs/SNAP/as-735_G_702.mtx,7716,13460,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_472.mtx,7716,9808,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_369.mtx,7716,8720,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_199.mtx,7716,7340,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_547.mtx,7716,10825,Graph too small
+/home/graphwork/Graphs/SNAP/p2p-Gnutella08.mtx,6301,20777,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_302.mtx,7716,8239,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_077.mtx,7716,6286,Graph too small
+/home/graphwork/Graphs/SNAP/amazon0312.mtx,400727,2349869,1,20241,378225,2319637,0.983734
+/home/graphwork/Graphs/SNAP/as-caida_G_105.mtx,31379,52363,5903,9597,15859,42725,0.744344
+/home/graphwork/Graphs/SNAP/as-735_G_421.mtx,7716,9216,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_372.mtx,7716,8848,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_295.mtx,7716,8167,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_330.mtx,7716,8514,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_185.mtx,7716,7230,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_427.mtx,7716,9283,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_360.mtx,7716,8643,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_274.mtx,7716,7604,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_558.mtx,7716,10983,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_100.mtx,7716,6593,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_395.mtx,7716,9028,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_366.mtx,7716,8724,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_279.mtx,7716,7932,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_238.mtx,7716,7542,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_411.mtx,7716,1290,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_335.mtx,7716,8255,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_034.mtx,31379,44245,9782,7766,13819,36453,0.723498
+/home/graphwork/Graphs/SNAP/as-735_G_420.mtx,7716,9216,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_163.mtx,7716,7084,Graph too small
+/home/graphwork/Graphs/SNAP/as-735_G_506.mtx,7716,10257,Graph too small
+/home/graphwork/Graphs/SNAP/as-caida_G_020.mtx,31379,40474,11343,7368,12646,33065,0.701310
+/home/graphwork/Graphs/SNAP/as-735_G_190.mtx,7716,7255,Graph too small
+/home/graphwork/Graphs/DIMACS10/la2010_area.mtx,204447,-1234476559,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetrace-00010.mtx,12057441,18082179,1,1,12057441,18082179,1.000000
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_15_s0.mtx,32768,160240,6,39,32713,160176,0.999482
+/home/graphwork/Graphs/DIMACS10/wi2010_population.mtx,253096,-1045912448,Graph too small
+/home/graphwork/Graphs/DIMACS10/wi2010_coord.mtx,253096,1273005776,Graph too large
+/home/graphwork/Graphs/DIMACS10/ak2010_coord.mtx,45292,-1564166448,Graph too small
+/home/graphwork/Graphs/DIMACS10/az2010.mtx,241666,598047,1,7614,230090,581537,0.968982
+/home/graphwork/Graphs/DIMACS10/nh2010_population.mtx,48837,-1285479951,Graph too small
+/home/graphwork/Graphs/DIMACS10/tn2010_coord.mtx,240116,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ri2010_coord.mtx,25181,390510288,Graph too large
+/home/graphwork/Graphs/DIMACS10/delaunay_n14.mtx,16384,49122,1,1,16384,49122,1.000000
+/home/graphwork/Graphs/DIMACS10/wa2010_area.mtx,195574,-1095884288,Graph too small
+/home/graphwork/Graphs/DIMACS10/al2010.mtx,252266,615241,1,8588,241504,602010,0.974895
+/home/graphwork/Graphs/DIMACS10/ar2010_population.mtx,186211,1278583281,Graph too large
+/home/graphwork/Graphs/DIMACS10/ma2010_area.mtx,157508,2081876096,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_17_s0.mtx,131072,728753,4,27,131028,728684,0.999885
+/home/graphwork/Graphs/DIMACS10/wv2010_coord.mtx,135218,1580302656,Graph too large
+/home/graphwork/Graphs/DIMACS10/ne2010_population.mtx,193352,-1581582640,Graph too small
+/home/graphwork/Graphs/DIMACS10/delaunay_n10.mtx,1024,3056,Graph too small
+/home/graphwork/Graphs/DIMACS10/nd2010.mtx,133769,312973,1,4479,128280,306313,0.975242
+/home/graphwork/Graphs/DIMACS10/delaunay_n11.mtx,2048,6127,Graph too small
+/home/graphwork/Graphs/DIMACS10/ut2010_area.mtx,115406,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/de2010.mtx,24115,58028,1,994,22560,55797,0.957074
+/home/graphwork/Graphs/DIMACS10/vsp_vibrobox_scagr7-2c_rlfddd.mtx,77328,435586,1,3956,73373,431631,0.987491
+/home/graphwork/Graphs/DIMACS10/ga2010.mtx,291086,709028,1,12001,274953,688147,0.966126
+/home/graphwork/Graphs/DIMACS10/ks2010_area.mtx,238600,-2119314432,Graph too small
+/home/graphwork/Graphs/DIMACS10/wv2010_area.mtx,135218,951547600,Graph too large
+/home/graphwork/Graphs/DIMACS10/preferentialAttachment.mtx,100000,499985,1,1,100000,499985,1.000000
+/home/graphwork/Graphs/DIMACS10/ms2010_coord.mtx,171778,-589471247,Graph too small
+/home/graphwork/Graphs/DIMACS10/in2010.mtx,267071,640858,1,6164,258574,629539,0.979897
+/home/graphwork/Graphs/DIMACS10/az2010_area.mtx,241666,1471963633,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_21_s0.mtx,2097152,14487995,8,58,2097075,14487909,0.999992
+/home/graphwork/Graphs/DIMACS10/hugebubbles-00010.mtx,19458087,29179764,1,1,19458087,29179764,1.000000
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_20_s0.mtx,1048576,6891620,3,56,1048498,6891506,0.999979
+/home/graphwork/Graphs/DIMACS10/nh2010.mtx,48837,117275,1,3076,45165,112899,0.956159
+/home/graphwork/Graphs/DIMACS10/ny2010_coord.mtx,350169,-1930066224,Graph too small
+/home/graphwork/Graphs/DIMACS10/ms2010.mtx,171778,419990,1,5106,165247,411786,0.977328
+/home/graphwork/Graphs/DIMACS10/md2010_coord.mtx,145247,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/nj2010_population.mtx,169588,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ma2010_population.mtx,157508,-1600221952,Graph too small
+/home/graphwork/Graphs/DIMACS10/ny2010.mtx,350169,854772,3,8065,339908,841870,0.982490
+/home/graphwork/Graphs/DIMACS10/wv2010_population.mtx,135218,373107840,Graph too large
+/home/graphwork/Graphs/DIMACS10/vt2010_coord.mtx,32580,-494889264,Graph too small
+/home/graphwork/Graphs/DIMACS10/sc2010_coord.mtx,181908,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ca2010_coord.mtx,710145,234624064,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_16_s0.mtx,65536,342127,5,53,65446,341944,0.999392
+/home/graphwork/Graphs/DIMACS10/ks2010.mtx,238600,560899,1,4818,232360,552980,0.983771
+/home/graphwork/Graphs/DIMACS10/ny2010_population.mtx,350169,-473392,Graph too small
+/home/graphwork/Graphs/DIMACS10/ia2010_population.mtx,216007,-1174740495,Graph too small
+/home/graphwork/Graphs/DIMACS10/caidaRouterLevel.mtx,192244,609066,308,53104,132367,541081,0.861138
+/home/graphwork/Graphs/DIMACS10/nc2010_area.mtx,288987,410481137,Graph too large
+/home/graphwork/Graphs/DIMACS10/chesapeake.mtx,39,170,Graph too small
+/home/graphwork/Graphs/DIMACS10/ut2010.mtx,115406,286033,1,3809,110192,279173,0.972459
+/home/graphwork/Graphs/DIMACS10/id2010.mtx,149842,364132,1,6369,142089,354778,0.969866
+/home/graphwork/Graphs/DIMACS10/vsp_data_and_seymourl.mtx,9167,55866,1,16,9152,55851,0.999628
+/home/graphwork/Graphs/DIMACS10/vt2010.mtx,32580,77799,1,1703,30442,75155,0.960537
+/home/graphwork/Graphs/DIMACS10/G_n_pin_pout.mtx,100000,501198,6,54,99942,501145,0.999851
+/home/graphwork/Graphs/DIMACS10/mn2010_coord.mtx,259777,908924624,Graph too large
+/home/graphwork/Graphs/DIMACS10/az2010_population.mtx,241666,0,241666,0,0,0,0.000000
+/home/graphwork/Graphs/DIMACS10/t60k.mtx,60005,89440,1,1,60005,89440,1.000000
+/home/graphwork/Graphs/DIMACS10/vsp_c-30_data_data.mtx,11023,62184,1,1768,9256,60417,0.960847
+/home/graphwork/Graphs/DIMACS10/hugetric-00020.mtx,7122792,10680777,1,1,7122792,10680777,1.000000
+/home/graphwork/Graphs/DIMACS10/va2010_area.mtx,285762,-706767152,Graph too small
+/home/graphwork/Graphs/DIMACS10/delaunay_n12.mtx,4096,12264,Graph too small
+/home/graphwork/Graphs/DIMACS10/pa2010.mtx,421545,1029231,1,10536,408024,1012143,0.980767
+/home/graphwork/Graphs/DIMACS10/wing_nodal.mtx,10937,75488,1,1,10937,75488,1.000000
+/home/graphwork/Graphs/DIMACS10/luxembourg_osm.mtx,114599,119666,1,23372,87828,92455,0.770597
+/home/graphwork/Graphs/DIMACS10/data.mtx,2851,15093,Graph too small
+/home/graphwork/Graphs/DIMACS10/ne2010_area.mtx,193352,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ok2010.mtx,269118,637074,1,9547,256830,621520,0.971880
+/home/graphwork/Graphs/DIMACS10/delaunay_n17.mtx,131072,393176,1,1,131072,393176,1.000000
+/home/graphwork/Graphs/DIMACS10/me2010_population.mtx,69518,181241664,Graph too large
+/home/graphwork/Graphs/DIMACS10/sc2010_area.mtx,181908,-152652080,Graph too small
+/home/graphwork/Graphs/DIMACS10/az2010_coord.mtx,241666,981103089,Graph too large
+/home/graphwork/Graphs/DIMACS10/nc2010_coord.mtx,288987,-720555535,Graph too small
+/home/graphwork/Graphs/DIMACS10/vsp_bump2_e18_aa01_model1_crew1.mtx,56438,300801,1,1212,55227,299590,0.994479
+/home/graphwork/Graphs/DIMACS10/tx2010_coord.mtx,914231,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugebubbles-00000.mtx,18318143,27470081,1,1,18318143,27470081,1.000000
+/home/graphwork/Graphs/DIMACS10/kron_g500-logn19.mtx,524288,21780787,115140,56986,352164,21723802,0.993511
+/home/graphwork/Graphs/DIMACS10/de2010_coord.mtx,24115,1194340849,Graph too large
+/home/graphwork/Graphs/DIMACS10/mi2010_population.mtx,329885,615726080,Graph too large
+/home/graphwork/Graphs/DIMACS10/vsp_mod2_pgp2_slptsk.mtx,101364,389368,2,12915,88449,376454,0.955979
+/home/graphwork/Graphs/DIMACS10/delaunay_n16.mtx,65536,196575,1,1,65536,196575,1.000000
+/home/graphwork/Graphs/DIMACS10/NLR.mtx,4163763,12487976,1,1,4163763,12487976,1.000000
+/home/graphwork/Graphs/DIMACS10/md2010_population.mtx,145247,-487545344,Graph too small
+/home/graphwork/Graphs/DIMACS10/fe_sphere.mtx,16386,49152,1,1,16386,49152,1.000000
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_16_s0_coord.mtx,65536,-673024832,Graph too small
+/home/graphwork/Graphs/DIMACS10/ok2010_population.mtx,269118,-981657904,Graph too small
+/home/graphwork/Graphs/DIMACS10/nc2010.mtx,288987,708310,1,10706,275149,690791,0.971344
+/home/graphwork/Graphs/DIMACS10/nm2010_area.mtx,168609,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ct2010_area.mtx,67578,1775490768,Graph too large
+/home/graphwork/Graphs/DIMACS10/ia2010_area.mtx,216007,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/uk.mtx,4824,6837,Graph too small
+/home/graphwork/Graphs/DIMACS10/channel-500x100x100-b050.mtx,4802000,42681372,1,1,4802000,42681372,1.000000
+/home/graphwork/Graphs/DIMACS10/AS365_coord.mtx,3799275,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/wa2010.mtx,195574,473716,1,5921,187913,463874,0.976076
+/home/graphwork/Graphs/DIMACS10/tx2010.mtx,914231,2228136,1,25100,877098,2176466,0.973844
+/home/graphwork/Graphs/DIMACS10/coAuthorsCiteseer.mtx,227320,814134,1,48393,142245,657250,0.785058
+/home/graphwork/Graphs/DIMACS10/ia2010.mtx,216007,510585,1,2760,212042,505113,0.987949
+/home/graphwork/Graphs/DIMACS10/oh2010_coord.mtx,365344,317945552,Graph too large
+/home/graphwork/Graphs/DIMACS10/ny2010_area.mtx,350169,1051562481,Graph too large
+/home/graphwork/Graphs/DIMACS10/fe_body.mtx,45087,163734,351,90,30555,113398,0.690773
+/home/graphwork/Graphs/DIMACS10/tn2010_population.mtx,240116,-2104679951,Graph too small
+/home/graphwork/Graphs/DIMACS10/nj2010.mtx,169588,414956,1,5159,163096,406906,0.977397
+/home/graphwork/Graphs/DIMACS10/sd2010.mtx,88360,205361,1,2008,85857,202272,0.982606
+/home/graphwork/Graphs/DIMACS10/sd2010_coord.mtx,88360,1589909760,Graph too large
+/home/graphwork/Graphs/DIMACS10/me2010_area.mtx,69518,-1550732815,Graph too small
+/home/graphwork/Graphs/DIMACS10/oh2010.mtx,365344,884120,1,9001,353544,868968,0.980266
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_20_s0_coord.mtx,1048576,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/va2010_population.mtx,285762,-589180431,Graph too small
+/home/graphwork/Graphs/DIMACS10/wv2010.mtx,135218,331461,1,5894,127900,322490,0.968351
+/home/graphwork/Graphs/DIMACS10/fl2010.mtx,484481,1173147,2,24244,446947,1119474,0.948820
+/home/graphwork/Graphs/DIMACS10/in2010_area.mtx,267071,-1107334976,Graph too small
+/home/graphwork/Graphs/DIMACS10/mn2010_population.mtx,259777,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetrace-00000.mtx,4588484,6879133,1,1,4588484,6879133,1.000000
+/home/graphwork/Graphs/DIMACS10/tx2010_area.mtx,914231,-1358596400,Graph too small
+/home/graphwork/Graphs/DIMACS10/tn2010.mtx,240116,596983,1,7105,230899,585266,0.977232
+/home/graphwork/Graphs/DIMACS10/pa2010_coord.mtx,421545,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/adaptive.mtx,6815744,13624320,1,1,6815744,13624320,1.000000
+/home/graphwork/Graphs/DIMACS10/mo2010.mtx,343565,828284,1,11448,328890,809727,0.974107
+/home/graphwork/Graphs/DIMACS10/me2010.mtx,69518,167738,1,4448,64158,161257,0.954760
+/home/graphwork/Graphs/DIMACS10/AS365.mtx,3799275,11368076,1,1,3799275,11368076,1.000000
+/home/graphwork/Graphs/DIMACS10/fe_ocean.mtx,143437,409593,1,40,143398,409554,0.999878
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_24_s0.mtx,16777216,132557200,Graph too large
+/home/graphwork/Graphs/DIMACS10/co2010_area.mtx,201062,942060032,Graph too large
+/home/graphwork/Graphs/DIMACS10/al2010_area.mtx,252266,-1238063408,Graph too small
+/home/graphwork/Graphs/DIMACS10/md2010.mtx,145247,350189,1,7828,135128,337323,0.957604
+/home/graphwork/Graphs/DIMACS10/hugetrace-00010_coord.mtx,12057441,1858298353,Graph too large
+/home/graphwork/Graphs/DIMACS10/144.mtx,144649,1074393,1,1,144649,1074393,1.000000
+/home/graphwork/Graphs/DIMACS10/fe_tooth.mtx,78136,452591,1,1,78136,452591,1.000000
+/home/graphwork/Graphs/DIMACS10/vsp_bcsstk30_500sep_10in_1Kout.mtx,58348,2016578,12,38,58300,2016541,0.999970
+/home/graphwork/Graphs/DIMACS10/333SP_coord.mtx,3712815,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetrace-00020.mtx,16002413,23998813,1,1,16002413,23998813,1.000000
+/home/graphwork/Graphs/DIMACS10/ri2010.mtx,25181,62875,2,838,24022,61277,0.971146
+/home/graphwork/Graphs/DIMACS10/delaunay_n24.mtx,16777216,50331601,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_19_s0_coord.mtx,524288,1597015760,Graph too large
+/home/graphwork/Graphs/DIMACS10/il2010_population.mtx,451554,1172550129,Graph too large
+/home/graphwork/Graphs/DIMACS10/vt2010_area.mtx,32580,-1536383280,Graph too small
+/home/graphwork/Graphs/DIMACS10/ky2010_coord.mtx,161672,-1878475904,Graph too small
+/home/graphwork/Graphs/DIMACS10/NACA0015.mtx,1039183,3114818,1,1,1039183,3114818,1.000000
+/home/graphwork/Graphs/DIMACS10/coPapersCiteseer.mtx,434102,16036720,1,11577,401268,15891726,0.990069
+/home/graphwork/Graphs/DIMACS10/nm2010.mtx,168609,415485,1,4629,162477,407549,0.977987
+/home/graphwork/Graphs/DIMACS10/598a.mtx,110971,741934,1,1,110971,741934,1.000000
+/home/graphwork/Graphs/DIMACS10/mi2010_coord.mtx,329885,-1238560832,Graph too small
+/home/graphwork/Graphs/DIMACS10/al2010_population.mtx,252266,-1977088304,Graph too small
+/home/graphwork/Graphs/DIMACS10/tn2010_area.mtx,240116,-1064806704,Graph too small
+/home/graphwork/Graphs/DIMACS10/ma2010_coord.mtx,157508,877291216,Graph too large
+/home/graphwork/Graphs/DIMACS10/ar2010_area.mtx,186211,1320568528,Graph too large
+/home/graphwork/Graphs/DIMACS10/mn2010.mtx,259777,613551,1,8727,249368,601182,0.976362
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_17_s0_coord.mtx,131072,1614881265,Graph too large
+/home/graphwork/Graphs/DIMACS10/or2010_area.mtx,196621,462505680,Graph too large
+/home/graphwork/Graphs/DIMACS10/wy2010_area.mtx,86204,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/or2010_coord.mtx,196621,-759160335,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetric-00010_coord.mtx,6592765,-1364098575,Graph too small
+/home/graphwork/Graphs/DIMACS10/ok2010_coord.mtx,269118,-861297280,Graph too small
+/home/graphwork/Graphs/DIMACS10/cs4.mtx,22499,43858,Graph too small
+/home/graphwork/Graphs/DIMACS10/nm2010_population.mtx,168609,1324517568,Graph too large
+/home/graphwork/Graphs/DIMACS10/kron_g500-logn20.mtx,1048576,44619402,253380,116666,678532,44502737,0.993317
+/home/graphwork/Graphs/DIMACS10/nj2010_coord.mtx,169588,1525654001,Graph too large
+/home/graphwork/Graphs/DIMACS10/oh2010_area.mtx,365344,1360764096,Graph too large
+/home/graphwork/Graphs/DIMACS10/germany_osm_coord.mtx,11548845,1007507152,Graph too large
+/home/graphwork/Graphs/DIMACS10/belgium_osm.mtx,1441295,1549970,1,222448,1179503,1281458,0.824097
+/home/graphwork/Graphs/DIMACS10/delaunay_n13.mtx,8192,24547,Graph too small
+/home/graphwork/Graphs/DIMACS10/delaunay_n21.mtx,2097152,6291408,1,1,2097152,6291408,1.000000
+/home/graphwork/Graphs/DIMACS10/netherlands_osm_coord.mtx,2216688,-1480994319,Graph too small
+/home/graphwork/Graphs/DIMACS10/pa2010_area.mtx,421545,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/wing.mtx,62032,121544,1,1,62032,121544,1.000000
+/home/graphwork/Graphs/DIMACS10/nv2010_area.mtx,84538,1850829376,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_22_s0_coord.mtx,4194304,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/il2010.mtx,451554,1082232,1,7009,442428,1070638,0.987648
+/home/graphwork/Graphs/DIMACS10/or2010_population.mtx,196621,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/wi2010_area.mtx,253096,-123510287,Graph too small
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_19_s0.mtx,524288,3269766,6,49,524214,3269657,0.999959
+/home/graphwork/Graphs/DIMACS10/fl2010_area.mtx,484481,479212017,Graph too large
+/home/graphwork/Graphs/DIMACS10/co2010_coord.mtx,201062,-1945239055,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetrace-00000_coord.mtx,4588484,890049024,Graph too large
+/home/graphwork/Graphs/DIMACS10/hugebubbles-00020_coord.mtx,21198119,-1309681968,Graph too small
+/home/graphwork/Graphs/DIMACS10/vsp_msc10848_300sep_100in_1Kout.mtx,21996,1221028,1,2,21995,1221027,0.999999
+/home/graphwork/Graphs/DIMACS10/nd2010_coord.mtx,133769,-92083648,Graph too small
+/home/graphwork/Graphs/DIMACS10/road_central.mtx,14081816,16933413,1,4290640,9498403,12226050,0.708060
+/home/graphwork/Graphs/DIMACS10/nv2010_population.mtx,84538,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ms2010_population.mtx,171778,2146928336,Graph too large
+/home/graphwork/Graphs/DIMACS10/al2010_coord.mtx,252266,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ak2010_population.mtx,45292,-191478064,Graph too small
+/home/graphwork/Graphs/DIMACS10/ca2010.mtx,710145,1744683,7,15119,687149,1711725,0.978828
+/home/graphwork/Graphs/DIMACS10/co2010_population.mtx,201062,1595086544,Graph too large
+/home/graphwork/Graphs/DIMACS10/kron_g500-logn21.mtx,2097152,91042010,Graph too large
+/home/graphwork/Graphs/DIMACS10/coPapersDBLP.mtx,540486,15245729,1,17066,503601,15140687,0.992041
+/home/graphwork/Graphs/DIMACS10/ga2010_area.mtx,291086,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/luxembourg_osm_coord.mtx,114599,-1729763632,Graph too small
+/home/graphwork/Graphs/DIMACS10/tx2010_population.mtx,914231,-1569760512,Graph too small
+/home/graphwork/Graphs/DIMACS10/venturiLevel3.mtx,4026819,8054237,1,1,4026819,8054237,1.000000
+/home/graphwork/Graphs/DIMACS10/vsp_sctap1-2b_and_seymourl.mtx,40174,140831,1,3288,36887,137544,0.969360
+/home/graphwork/Graphs/DIMACS10/me2010_coord.mtx,69518,931825360,Graph too large
+/home/graphwork/Graphs/DIMACS10/or2010.mtx,196621,489756,1,5498,189357,480345,0.977821
+/home/graphwork/Graphs/DIMACS10/hi2010_coord.mtx,25016,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/mt2010_coord.mtx,132288,-1771748879,Graph too small
+/home/graphwork/Graphs/DIMACS10/nc2010_population.mtx,288987,1819521521,Graph too large
+/home/graphwork/Graphs/DIMACS10/germany_osm.mtx,11548845,12369181,1,2524313,8542625,9281445,0.746972
+/home/graphwork/Graphs/DIMACS10/sc2010.mtx,181908,446580,1,6751,172968,435072,0.970275
+/home/graphwork/Graphs/DIMACS10/nd2010_population.mtx,133769,2147480049,Graph too large
+/home/graphwork/Graphs/DIMACS10/in2010_population.mtx,267071,0,267071,0,0,0,0.000000
+/home/graphwork/Graphs/DIMACS10/ky2010_area.mtx,161672,301270736,Graph too large
+/home/graphwork/Graphs/DIMACS10/mt2010_population.mtx,132288,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hi2010.mtx,25016,62063,16,735,8549,21604,0.347032
+/home/graphwork/Graphs/DIMACS10/mt2010.mtx,132288,319334,1,5252,125768,311294,0.970686
+/home/graphwork/Graphs/DIMACS10/ga2010_population.mtx,291086,124625393,Graph too large
+/home/graphwork/Graphs/DIMACS10/delaunay_n20.mtx,1048576,3145686,1,1,1048576,3145686,1.000000
+/home/graphwork/Graphs/DIMACS10/coAuthorsDBLP.mtx,299067,977676,1,65636,197448,817752,0.813049
+/home/graphwork/Graphs/DIMACS10/europe_osm_coord.mtx,50912018,1478158032,Graph too large
+/home/graphwork/Graphs/DIMACS10/hugebubbles-00020.mtx,21198119,31790179,1,1,21198119,31790179,1.000000
+/home/graphwork/Graphs/DIMACS10/M6_coord.mtx,3501776,-1890260224,Graph too small
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_23_s0_coord.mtx,8388608,-1498656271,Graph too small
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_24_s0_coord.mtx,16777216,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/vt2010_population.mtx,32580,1328964081,Graph too large
+/home/graphwork/Graphs/DIMACS10/ks2010_population.mtx,238600,-568536591,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetric-00010.mtx,6592765,9885854,1,1,6592765,9885854,1.000000
+/home/graphwork/Graphs/DIMACS10/pa2010_population.mtx,421545,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/fl2010_population.mtx,484481,2004619761,Graph too large
+/home/graphwork/Graphs/DIMACS10/cti.mtx,16840,48232,Graph too small
+/home/graphwork/Graphs/DIMACS10/vsp_model1_crew1_cr42_south31.mtx,45101,189976,1,2561,42541,187416,0.981932
+/home/graphwork/Graphs/DIMACS10/auto.mtx,448695,3314611,1,1,448695,3314611,1.000000
+/home/graphwork/Graphs/DIMACS10/vsp_finan512_scagr7-2c_rlfddd.mtx,139752,552020,1,3936,135817,548085,0.990509
+/home/graphwork/Graphs/DIMACS10/delaunay_n18.mtx,262144,786396,1,1,262144,786396,1.000000
+/home/graphwork/Graphs/DIMACS10/mo2010_population.mtx,343565,-1564183680,Graph too small
+/home/graphwork/Graphs/DIMACS10/kron_g500-logn18.mtx,262144,10582686,51997,27319,182830,10555368,0.993749
+/home/graphwork/Graphs/DIMACS10/mo2010_coord.mtx,343565,-1931300367,Graph too small
+/home/graphwork/Graphs/DIMACS10/de2010_area.mtx,24115,-1380531727,Graph too small
+/home/graphwork/Graphs/DIMACS10/ga2010_coord.mtx,291086,1370054784,Graph too large
+/home/graphwork/Graphs/DIMACS10/nh2010_area.mtx,48837,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/m14b.mtx,214765,1679018,1,1,214765,1679018,1.000000
+/home/graphwork/Graphs/DIMACS10/ct2010_population.mtx,67578,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetric-00000.mtx,5824554,8733523,1,1,5824554,8733523,1.000000
+/home/graphwork/Graphs/DIMACS10/hugetric-00000_coord.mtx,5824554,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hi2010_population.mtx,25016,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/vsp_p0291_seymourl_iiasa.mtx,10498,53868,1,942,9557,52927,0.976124
+/home/graphwork/Graphs/DIMACS10/de2010_population.mtx,24115,600925632,Graph too large
+/home/graphwork/Graphs/DIMACS10/md2010_area.mtx,145247,-950517760,Graph too small
+/home/graphwork/Graphs/DIMACS10/ut2010_population.mtx,115406,1771947728,Graph too large
+/home/graphwork/Graphs/DIMACS10/ri2010_population.mtx,25181,577167857,Graph too large
+/home/graphwork/Graphs/DIMACS10/il2010_coord.mtx,451554,-2122182592,Graph too small
+/home/graphwork/Graphs/DIMACS10/europe_osm.mtx,50912018,54054660,Graph too large
+/home/graphwork/Graphs/DIMACS10/va2010_coord.mtx,285762,351838705,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_18_s0_coord.mtx,262144,-1285556528,Graph too small
+/home/graphwork/Graphs/DIMACS10/ca2010_area.mtx,710145,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/id2010_area.mtx,149842,1271654400,Graph too large
+/home/graphwork/Graphs/DIMACS10/sd2010_area.mtx,88360,928676096,Graph too large
+/home/graphwork/Graphs/DIMACS10/road_usa.mtx,23947347,28854312,1,7390330,16019894,20705787,0.703335
+/home/graphwork/Graphs/DIMACS10/delaunay_n22.mtx,4194304,12582869,1,1,4194304,12582869,1.000000
+/home/graphwork/Graphs/DIMACS10/vsp_barth5_1Ksep_50in_5Kout.mtx,32212,101805,1,2,32211,101804,0.999987
+/home/graphwork/Graphs/DIMACS10/vsp_c-60_data_cti_cs4.mtx,85830,241080,4,15053,70775,226028,0.920493
+/home/graphwork/Graphs/DIMACS10/wy2010_coord.mtx,86204,926314993,Graph too large
+/home/graphwork/Graphs/DIMACS10/ak2010_area.mtx,45292,-1091804672,Graph too small
+/home/graphwork/Graphs/DIMACS10/vsp_befref_fxm_2_4_air02.mtx,14109,98224,1,215,13895,98010,0.996951
+/home/graphwork/Graphs/DIMACS10/delaunay_n23.mtx,8388608,25165784,1,1,8388608,25165784,1.000000
+/home/graphwork/Graphs/DIMACS10/wa2010_coord.mtx,195574,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/hugetrace-00020_coord.mtx,16002413,354236112,Graph too large
+/home/graphwork/Graphs/DIMACS10/id2010_coord.mtx,149842,-208984368,Graph too small
+/home/graphwork/Graphs/DIMACS10/nh2010_coord.mtx,48837,-579874319,Graph too small
+/home/graphwork/Graphs/DIMACS10/asia_osm.mtx,11950757,12711603,1,3536118,6989655,7627870,0.595211
+/home/graphwork/Graphs/DIMACS10/citationCiteseer.mtx,268495,1156647,1,44467,220937,1105839,0.942221
+/home/graphwork/Graphs/DIMACS10/la2010_coord.mtx,204447,1493214928,Graph too large
+/home/graphwork/Graphs/DIMACS10/hugebubbles-00010_coord.mtx,19458087,-2014633487,Graph too small
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_18_s0.mtx,262144,1547283,4,54,262067,1547181,0.999916
+/home/graphwork/Graphs/DIMACS10/mn2010_area.mtx,259777,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_15_s0_coord.mtx,32768,-1603950896,Graph too small
+/home/graphwork/Graphs/DIMACS10/wy2010_population.mtx,86204,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/fe_4elt2.mtx,11143,32818,Graph too small
+/home/graphwork/Graphs/DIMACS10/ne2010_coord.mtx,193352,-1453936143,Graph too small
+/home/graphwork/Graphs/DIMACS10/oh2010_population.mtx,365344,1700991473,Graph too large
+/home/graphwork/Graphs/DIMACS10/vsp_south31_slptsk.mtx,39668,189914,1,2711,36957,187202,0.980608
+/home/graphwork/Graphs/DIMACS10/wa2010_population.mtx,195574,-1004038448,Graph too small
+/home/graphwork/Graphs/DIMACS10/ct2010.mtx,67578,168176,1,2844,64117,163980,0.970656
+/home/graphwork/Graphs/DIMACS10/mt2010_area.mtx,132288,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ky2010.mtx,161672,393889,2,5898,154021,384226,0.971587
+/home/graphwork/Graphs/DIMACS10/NLR_coord.mtx,4163763,1287915216,Graph too large
+/home/graphwork/Graphs/DIMACS10/fe_rotor.mtx,99617,662431,1,1,99617,662431,1.000000
+/home/graphwork/Graphs/DIMACS10/wy2010.mtx,86204,213793,1,3113,82157,208579,0.971827
+/home/graphwork/Graphs/DIMACS10/333SP.mtx,3712815,11108633,1,1,3712815,11108633,1.000000
+/home/graphwork/Graphs/DIMACS10/hugetric-00020_coord.mtx,7122792,1329706704,Graph too large
+/home/graphwork/Graphs/DIMACS10/M6.mtx,3501776,10501936,1,1,3501776,10501936,1.000000
+/home/graphwork/Graphs/DIMACS10/nd2010_area.mtx,133769,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ar2010.mtx,186211,452155,1,5533,179155,443341,0.977365
+/home/graphwork/Graphs/DIMACS10/il2010_area.mtx,451554,-1304237824,Graph too small
+/home/graphwork/Graphs/DIMACS10/wi2010.mtx,253096,604702,1,8720,242945,592923,0.976951
+/home/graphwork/Graphs/DIMACS10/mi2010_area.mtx,329885,-448945679,Graph too small
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_21_s0_coord.mtx,2097152,-525703472,Graph too small
+/home/graphwork/Graphs/DIMACS10/netherlands_osm.mtx,2216688,2441238,1,422853,1696961,1904807,0.775665
+/home/graphwork/Graphs/DIMACS10/ms2010_area.mtx,171778,-1380246912,Graph too small
+/home/graphwork/Graphs/DIMACS10/ky2010_population.mtx,161672,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ar2010_coord.mtx,186211,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/ia2010_coord.mtx,216007,-528581376,Graph too small
+/home/graphwork/Graphs/DIMACS10/id2010_population.mtx,149842,-1346722752,Graph too small
+/home/graphwork/Graphs/DIMACS10/asia_osm_coord.mtx,11950757,-463137072,Graph too small
+/home/graphwork/Graphs/DIMACS10/italy_osm.mtx,6686493,7013978,1,1479785,5044284,5354929,0.760539
+/home/graphwork/Graphs/DIMACS10/la2010_population.mtx,204447,-749938992,Graph too small
+/home/graphwork/Graphs/DIMACS10/great-britain_osm_coord.mtx,7733822,528459520,Graph too large
+/home/graphwork/Graphs/DIMACS10/kron_g500-logn17.mtx,131072,5113985,23168,13136,94770,5100850,0.993960
+/home/graphwork/Graphs/DIMACS10/nj2010_area.mtx,169588,1306436081,Graph too large
+/home/graphwork/Graphs/DIMACS10/la2010.mtx,204447,490317,1,8588,194025,477776,0.970041
+/home/graphwork/Graphs/DIMACS10/sd2010_population.mtx,88360,72310656,Graph too large
+/home/graphwork/Graphs/DIMACS10/packing-500x100x100-b050.mtx,2145852,17488243,14,225,2145615,17488019,0.999982
+/home/graphwork/Graphs/DIMACS10/in2010_coord.mtx,267071,318818000,Graph too large
+/home/graphwork/Graphs/DIMACS10/ks2010_coord.mtx,238600,1386468800,Graph too large
+/home/graphwork/Graphs/DIMACS10/ca2010_population.mtx,710145,500846656,Graph too large
+/home/graphwork/Graphs/DIMACS10/hugebubbles-00000_coord.mtx,18318143,-1772871183,Graph too small
+/home/graphwork/Graphs/DIMACS10/ut2010_coord.mtx,115406,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/NACA0015_coord.mtx,1039183,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/italy_osm_coord.mtx,6686493,-1000361487,Graph too small
+/home/graphwork/Graphs/DIMACS10/co2010.mtx,201062,487287,1,6758,192276,476093,0.973483
+/home/graphwork/Graphs/DIMACS10/fl2010_coord.mtx,484481,-1041739279,Graph too small
+/home/graphwork/Graphs/DIMACS10/ct2010_coord.mtx,67578,1940021745,Graph too large
+/home/graphwork/Graphs/DIMACS10/nm2010_coord.mtx,168609,-1499913743,Graph too small
+/home/graphwork/Graphs/DIMACS10/ok2010_area.mtx,269118,-957670912,Graph too small
+/home/graphwork/Graphs/DIMACS10/hi2010_area.mtx,25016,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/delaunay_n19.mtx,524288,1572823,1,1,524288,1572823,1.000000
+/home/graphwork/Graphs/DIMACS10/ne2010.mtx,193352,456927,1,4142,188119,450391,0.983467
+/home/graphwork/Graphs/DIMACS10/smallworld.mtx,100000,499998,1,1,100000,499998,1.000000
+/home/graphwork/Graphs/DIMACS10/mo2010_area.mtx,343565,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/sc2010_population.mtx,181908,-1061574960,Graph too small
+/home/graphwork/Graphs/DIMACS10/ri2010_area.mtx,25181,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/kron_g500-logn16.mtx,65536,2456071,10217,6326,48995,2449746,0.994136
+/home/graphwork/Graphs/DIMACS10/ma2010.mtx,157508,388305,1,6497,147516,373476,0.957554
+/home/graphwork/Graphs/DIMACS10/nv2010.mtx,84538,208499,1,2726,80461,202800,0.969145
+/home/graphwork/Graphs/DIMACS10/belgium_osm_coord.mtx,1441295,1733251712,Graph too large
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_23_s0.mtx,8388608,63501393,Graph too large
+/home/graphwork/Graphs/DIMACS10/ak2010.mtx,45292,108549,50,2450,38564,96120,0.879622
+/home/graphwork/Graphs/DIMACS10/rgg_n_2_22_s0.mtx,4194304,30359198,5,67,4194223,30359108,0.999996
+/home/graphwork/Graphs/DIMACS10/delaunay_n15.mtx,32768,98274,1,1,32768,98274,1.000000
+/home/graphwork/Graphs/DIMACS10/nv2010_coord.mtx,84538,0,Graph too small
+/home/graphwork/Graphs/DIMACS10/va2010.mtx,285762,701064,1,13675,268825,680313,0.965377
+/home/graphwork/Graphs/DIMACS10/great-britain_osm.mtx,7733822,8156517,1,2475812,4927212,5305880,0.646196
+/home/graphwork/Graphs/DIMACS10/mi2010.mtx,329885,789045,1,10459,315900,770852,0.973600
+/home/graphwork/Graphs/Mycielski/mycielskian20.mtx,786431,1355185280,Graph too large
+/home/graphwork/Graphs/Mycielski/mycielskian3.mtx,5,5,Graph too small
+/home/graphwork/Graphs/LAW/enron.mtx,69244,254449,781,43814,24048,209421,0.766057
+/home/graphwork/Graphs/LAW/dblp-2010.mtx,326186,807700,48493,81680,140610,572873,0.662528
+/home/graphwork/Graphs/LAW/sk-2005.mtx,50636154,1949412601,Graph too large
+/home/graphwork/Graphs/LAW/eu-2005.mtx,862664,16138468,1,53013,803975,16059329,0.993453
+/home/graphwork/Graphs/LAW/uk-2005.mtx,39459925,936364282,Graph too large
+/home/graphwork/Graphs/LAW/amazon-2008.mtx,735323,3523472,1,85164,641128,3401950,0.956666
+/home/graphwork/Graphs/LAW/uk-2002.mtx,18520486,298113762,Graph too large
+/home/graphwork/Graphs/LAW/ljournal-2008.mtx,5363260,79023142,Graph too large
+/home/graphwork/Graphs/LAW/cnr-2000.mtx,325557,2738969,1,90148,153982,1978553,0.708381
+/home/graphwork/Graphs/LAW/arabic-2005.mtx,22744080,639999458,Graph too large
+/home/graphwork/Graphs/LAW/webbase-2001.mtx,118142155,1019903190,Graph too large
+/home/graphwork/Graphs/LAW/it-2004.mtx,41291594,1150725436,Graph too large
+/home/graphwork/Graphs/LAW/hollywood-2009.mtx,1139905,57515616,Graph too large
+/home/graphwork/Graphs/LAW/indochina-2004.mtx,7414866,194109311,Graph too large
+/home/graphwork/Graphs/LAW/in-2004.mtx,1382908,13591473,134,299088,784051,9135994,0.667092

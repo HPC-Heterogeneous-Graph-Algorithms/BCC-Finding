@@ -74,11 +74,11 @@ int main(int argc, char** argv) {
     iss >> rows >> cols >> nnz;
     n = rows;
 
-    if (nnz >= 20000000) {
+    if (nnz > 50000000) {
         cout << argv[1] << "," << n << "," << nnz << ",Graph too large\n";
         return 0;
     }
-    if (nnz <= 500000) {
+    if (nnz < 49000) {
         cout << argv[1] << "," << n << "," << nnz << ",Graph too small\n";
         return 0;
     }

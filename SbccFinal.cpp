@@ -74,14 +74,14 @@ int main(int argc, char** argv) {
     iss >> rows >> cols >> nnz;
     n = rows;
 
-    if (nnz > 50000000) {
+    if (nnz > 200000000) {
         cout << argv[1] << "," << n << "," << nnz << ",Graph too large\n";
         return 0;
     }
-    if (nnz < 49000) {
-        cout << argv[1] << "," << n << "," << nnz << ",Graph too small\n";
-        return 0;
-    }
+//    if (nnz < 49000) {
+//        cout << argv[1] << "," << n << "," << nnz << ",Graph too small\n";
+//        return 0;
+//    }
 
     // Read edges (handle possible weights) and deduplicate
     vector<pair<int,int>> edges;
